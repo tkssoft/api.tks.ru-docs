@@ -1,0 +1,679 @@
+{
+    "title": "tnved_code_information",
+    "type": "object",
+    "description": "Информация о ставках/признаках по товарной позиции ТН ВЭД",
+    "properties": {
+        "CODE": {
+            "description": "Код ТНВЭД",
+            "type": "string",
+            "pattern": "^[0-9]{10}$"
+        },
+        "KR_NAIM": {
+            "description": "Краткое наименование товарной позиции",
+            "type": "string"
+        },
+        "DBEGIN": {
+            "description": "Дата начала действия кода ТН ВЭД",
+            "type": "string",
+            "pattern": "^([0-9]{4}-[0-9]{2}-[0-9]{2}$"
+        },
+        "DEND": {
+            "description": "Дата окончания действия кода ТН ВЭД",
+            "type": "string",
+            "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+        },
+        "PRIM": {
+            "description": "Примечания по коду",
+            "type": "string"
+        },
+        "TNVED": {
+            "description": "Информация по базовым ставкам/признакам, признаки наличия примечания",
+            "type": "object",
+            "properties": {
+                "CODE": {
+                    "description": "Код ТНВЭД",
+                    "type": "string"
+                },
+                "EDI2": {
+                    "description": "Код дополнительной единицы измерения",
+                    "type": "string",
+                    "pattern": "^[0-9]{3}$"
+                },
+                "EDI3": {
+                    "description": "Код дополнительной единицы измерения - 2",
+                    "type": "string",
+                    "pattern": "^[0-9]{3}$"
+                },
+                "AKC": {
+                    "description": "Ставка акциза 1",
+                    "type": "number"
+                },
+                "AKCEDI": {
+                    "description": "Единица измерения ставки акциза 1",
+                    "type": "string",
+                    "pattern": "^[0-9]{3}[DРБ]?$"
+                },
+                "AKC2": {
+                    "description": "Ставка акциза 2",
+                    "type": "number"
+                },
+                "AKCEDI2": {
+                    "description": "Единица измерения ставки акциза 2",
+                    "type": "string",
+                    "pattern": "^[0-9]{3}[DРБ]?$"
+                },
+                "AKCSIGN": {
+                    "description": "Операции между ставками акциза 1 и 2",
+                    "type": "string"
+                },
+                "AKC3": {
+                    "description": "Ставка акциза 3",
+                    "type": "number"
+                },
+                "AKCEDI3": {
+                    "description": "Единица измерения ставки акциза 3",
+                    "type": "string",
+                    "pattern": "^[0-9]{3}[DРБ]?$"
+                },
+                "AKCSIGN2": {
+                    "description": "Операции между ставками акциза 2 и 3",
+                    "type": "string"
+                },
+                "AKC_PR": {
+                    "description": "Признак наличия альтернативных ставок по акцизу",
+                    "type": "integer"
+                },
+                "IMP": {
+                    "description": "Ставка импортной пошлины 1",
+                    "type": "numeric"
+                },
+                "IMPEDI": {
+                    "description": "Единица измерения ставки импортной пошлины 1",
+                    "type": "string",
+                    "pattern": "^[0-9]{3}[DРБ]?$"
+                },
+                "IMP2": {
+                    "description": "Ставка импортной пошлины 2",
+                    "type": "numeric"
+                },
+                "IMPEDI2": {
+                    "description": "Единица измерения ставки импортной пошлины 2",
+                    "type": "string",
+                    "pattern": "^[0-9]{3}[DРБ]?$"
+                },
+                "IMPSIGN": {
+                    "description": "Операции между ставками импортной пошлины 1 и 2",
+                    "type": "string"
+                },
+                "IMP3": {
+                    "description": "Ставка импортной пошлины 3",
+                    "type": "numeric"
+                },
+                "IMPEDI3": {
+                    "description": "Единица измерения ставки импортной пошлины 3",
+                    "type": "string",
+                    "pattern": "^[0-9]{3}[DРБ]?$"
+                },
+                "IMPSIGN2": {
+                    "description": "Операции между ставками импортной пошлины 2 и 3",
+                    "type": "string"
+                },
+                "IMPPREF": {
+                    "description": "Преференция при использовании ставки",
+                    "type": "string"
+                },
+                "IMP_PR": {
+                    "description": "Признак наличия альтернативных ставок по импортной пошлине",
+                    "type": "integer"
+                },
+                "IMPTMP": {
+                    "description": "Ставка временной пошлины 1",
+                    "type": "numeric"
+                },
+                "IMPTMPEDI": {
+                    "description": "Единица измерения ставки временной пошлины 1",
+                    "type": "string",
+                    "pattern": "^[0-9]{3}[DРБ]?$"
+                },
+                "IMPTMP2": {
+                    "description": "Ставка временной пошлины 2",
+                    "type": "numeric"
+                },
+                "IMPTMPEDI2": {
+                    "description": "Единица измерения ставки временной пошлины 2",
+                    "type": "string",
+                    "pattern": "^[0-9]{3}[DРБ]?$"
+                },
+                "IMPTMPSIGN": {
+                    "description": "Операции между ставками временной пошлины 1 и 2",
+                    "type": "string"
+                },
+                "IMPTMP_PR": {
+                    "description": "Признак наличия альтернативных ставок по временной пошлине",
+                    "type": "integer"
+                },
+                "IMPDOP": {
+                    "description": "Ставка дополнительной пошлины %",
+                    "type": "numeric"
+                },
+                "IMPDOP_PR": {
+                    "description": "Признак наличия альтернативных ставок по дополнительной пошлине",
+                    "type": "integer"
+                },
+                "EXP": {
+                    "description": "Ставка экспортной пошлины 1",
+                    "type": "numeric"
+                },
+                "EXPEDI": {
+                    "description": "Единица измерения ставки экспортной пошлины 1",
+                    "type": "string",
+                    "pattern": "^[0-9]{3}[DРБ]?$"
+                },
+                "EXP2": {
+                    "description": "Ставка экспортной пошлины 2",
+                    "type": "numeric"
+                },
+                "EXPEDI2": {
+                    "description": "Единица измерения ставки экспортной пошлины 1",
+                    "type": "string",
+                    "pattern": "^[0-9]{3}[DРБ]?$"
+                },
+                "EXPSIGN": {
+                    "description": "Операции между ставками экспортной пошлины 1 и 2",
+                    "type": "string"
+                },
+                "EXP_PR": {
+                    "description": "Признак наличия альтернативных ставок по экспортной пошлине",
+                    "type": "integer"
+                },
+                "EXP3": {
+                    "description": "Ставка экспортной пошлины 3",
+                    "type": "numeric"
+                },
+                "EXPEDI3": {
+                    "description": "Единица измерения ставки экспортной пошлины 3",
+                    "type": "string",
+                    "pattern": "^[0-9]{3}[DРБ]?$"
+                },
+                "EXPSIGN2": {
+                    "description": "Операции между ставками экспортной пошлины 2 и 3",
+                    "type": "string"
+                },
+                "LICIMP": {
+                    "description": "Лицензирование по импорту",
+                    "type": "integer"
+                },
+                "LICIMP_PR": {
+                    "description": "Признак наличия примечаний по импорному лицензированию",
+                    "type": "integer"
+                },
+                "LICEXP": {
+                    "description": "Лицензирование по экспорту",
+                    "type": "integer"
+                },
+                "LICEXP_PR": {
+                    "description": "Признак наличия примечаний по экспортному лицензированию",
+                    "type": "integer"
+                },
+                "NDS": {
+                    "description": "Ставка НДС - %",
+                    "type": "numeric"
+                },
+                "NDSEDI": {
+                    "description": "Способ уплаты платежа для выбранной ставки",
+                    "type": "string"
+                },
+                "NDS_PR": {
+                    "description": "Признак наличия альтернативных ставок по НДС",
+                    "type": "integer"
+                },
+                "SAFETY": {
+                    "description": "Информация по сертификации",
+                    "type": "integer"
+                },
+                "SAFETY_PR": {
+                    "description": "Признак наличия примечаний по сертификации",
+                    "type": "integer"
+                },
+                "STRATEG": {
+                    "description": "Информация по стратегическим товарам (не используется)",
+                    "type": "integer"
+                },
+                "STRATEG_PR": {
+                    "description": "Направление по некоторым подпризнакам в прочих особенностях",
+                    "type": "integer"
+                },
+                "DEPOSIT": {
+                    "description": "Ставка депозита",
+                    "type": "numeric"
+                },
+                "DEPOSITEDI": {
+                    "description": "Единица измерения ставки депозита",
+                    "type": "string",
+                    "pattern": "^[0-9]{3}[DРБ]?$"
+                },
+                "DEPOSIT_PR": {
+                    "description": "Признак наличия альтернативных ставок по депозиту",
+                    "type": "integer"
+                },
+                "NOPREF": {
+                    "description": "Признак наличия преференциальных режимов по товару из развивающихся стран",
+                    "type": "integer"
+                },
+                "NOPREF_PR": {
+                    "description": "Признак наличия примечаний по преференциальному режиму по товарам из развивающихся стран",
+                    "type": "integer"
+                },
+                "PREF92": {
+                    "description": "Признак преференциальных режимов по товару из наименее развитых стран",
+                    "type": "integer"
+                },
+                "PREF92_PR": {
+                    "description": "Признак наличия примечаний по преференциальному режиму по товарам из наименее развитых стран",
+                    "type": "integer"
+                },
+                "KVOTAEXP": {
+                    "description": "Признак квотирования по экспорту",
+                    "type": "integer"
+                },
+                "KVOTAEXP_PR": {
+                    "description": "Признак наличия примечаний по квотированию по экспорту",
+                    "type": "integer"
+                },
+                "KVOTAIMP": {
+                    "description": "Признак квотирования по импорту",
+                    "type": "integer"
+                },
+                "KVOTAIMP_PR": {
+                    "description": "Признак наличия примечаний по квотированию по импорту",
+                    "type": "integer"
+                },
+                "REG": {
+                    "description": "Признак товаров двойного применения по экспорту",
+                    "type": "integer"
+                },
+                "REG_PR": {
+                    "description": "Признак наличия примечания по двойному применению по экспорту",
+                    "type": "integer"
+                },
+                "DOUBLE": {
+                    "description": "Признак товаров двойного применения по импорту",
+                    "type": "integer"
+                },
+                "DOUBLE_PR": {
+                    "description": "Признак наличия примечания по двойному применению по импорту",
+                    "type": "integer"
+                },
+                "KLASS": {
+                    "description": "Наличие требования разрешительных документов по импорту/экспорту",
+                    "type": "integer"
+                },
+                "KLASS_PR": {
+                    "description": "Признак наличия примечаний по требованиям разрешительных документов по импорту/экспорту",
+                    "type": "integer"
+                },
+                "OTHER_PR": {
+                    "description": "Признак наличия примечания по прочим особенностям",
+                    "type": "integer"
+                },
+                "STUFF": {
+                    "description": "Информация по странам применения ставок по отдельным признакам",
+                    "type": "string"
+                },
+                "IMPDEMP": {
+                    "description": "Ставка антидемпинговой пошлины 1",
+                    "type": "numeric"
+                },
+                "IMPDEMP2": {
+                    "description": "Ставка антидемпинговой пошлины 2",
+                    "type": "numeric"
+                },
+                "IMPDEMPEDI": {
+                    "description": "Единица измерения антидемпинговой пошлины 1",
+                    "type": "string",
+                    "pattern": "^[0-9]{3}[DРБ]?$"
+                },
+                "IMPDEMPEDI2": {
+                    "description": "Единица измерения антидемпинговой пошлины 2",
+                    "type": "string",
+                    "pattern": "^[0-9]{3}[DРБ]?$"
+                },
+                "IMPDEMPSIGN": {
+                    "description": "Операции между ставками антидемпинговой пошлины 1 и 2",
+                    "type": "string"
+                },
+                "IMPDEMP_PR": {
+                    "description": "Признак наличия альтернативных ставок по антидемпинговой пошлине",
+                    "type": "integer"
+                },
+                "IMPCOMP": {
+                    "description": "Ставка компенсационной пошлины 1",
+                    "type": "numeric"
+                },
+                "IMPCOMP2": {
+                    "description": "Ставка компенсационной пошлины 2",
+                    "type": "numeric"
+                },
+                "IMPCOMPEDI": {
+                    "description": "Единица измерения компенсационной пошлины 1",
+                    "type": "string",
+                    "pattern": "^[0-9]{3}[DРБ]?$"
+                },
+                "IMPCOMPEDI2": {
+                    "description": "Единица измерения компенсационной пошлины 2",
+                    "type": "string",
+                    "pattern": "^[0-9]{3}[DРБ]?$"
+                },
+                "IMPCOMPSIGN": {
+                    "description": "Операции между ставками компенсационной пошлины 1 и 2",
+                    "type": "string"
+                },
+                "IMPCOMP_PR": {
+                    "description": "Признак наличия альтернативных ставок по компенсационной пошлине",
+                    "type": "integer"
+                },
+                "AKCCODE": {
+                    "description": "Код вида платежа по акцизу",
+                    "type": "string"
+                },
+                "STUFF1": {
+                    "description": "Документальные признаки по различным видам налогов",
+                    "type": "string"
+                },
+                "EXPFEES": {
+                    "description": "Сборы за ТС для экспорта",
+                    "type": "numeric"
+                },
+                "IMPFEES": {
+                    "description": "Сборы за ТС для импорта",
+                    "type": "numeric"
+                },
+                "MARK": {
+                    "description": "Признак маркировки КиЗ (изделия из меха)",
+                    "type": "integer"
+                },
+                "MARK_PR": {
+                    "description": "Признак наличия примечаний по маркировке КиЗ (изделия из меха)",
+                    "type": "integer"
+                },
+                "UTIL_PR": {
+                    "description": "Признак наличия примечаний по утилизации товара",
+                    "type": "integer"
+                }
+            }
+        },
+        "Tnvedall": {
+            "description": "Информация по альтернативным ставкам/признакам, примечания",
+            "type": "object",
+            "properties": {
+                "0": {
+                    "description": "Экспортная пошлина",
+                    "type": "object",
+                    "properties": {
+                        "PRIZNAK": {
+                            "description": "Номер признака",
+                            "type": "integer"
+                        },
+                        "CODEMIN": {
+                            "description": "Код с",
+                            "type": "string"
+                        },
+                        "CODEMAX": {
+                            "description": "Код по",
+                            "type": "string"
+                        },
+                        "MIN": {
+                            "description": "Ставка 1",
+                            "type": "numeric"
+                        },
+                        "TYPEMIN": {
+                            "description": "Единица измерения ставки 1",
+                            "type": "string",
+                            "pattern": "^[0-9]{3}[DРБ]?$"
+                        },
+                        "MAX": {
+                            "description": "Ставка 2",
+                            "type": "numeric"
+                        },
+                        "TYPEMAX": {
+                            "description": "Единица измерения ставки 2",
+                            "type": "string",
+                            "pattern": "^[0-9]{3}[DРБ]?$"
+                        },
+                        "SIGN": {
+                            "description": "Знак операции между ставками 1 и 2",
+                            "type": "string"
+                        },
+                        "MIN2": {
+                            "description": "Ставка 3",
+                            "type": "numeric"
+                        },
+                        "TYPEMIN2": {
+                            "description": "Единица измерения ставки 3",
+                            "type": "string",
+                            "pattern": "^[0-9]{3}[DРБ]?$"
+                        },
+                        "SIGN2": {
+                            "description": "Знак операции между ставками 2 и 3",
+                            "type": "string"
+                        },
+                        "PREF": {
+                            "description": "Преференция для ставки",
+                            "type": "string"
+                        },
+                        "DOC_N": {
+                            "description": "Номер документа",
+                            "type": "string"
+                        },
+                        "DOC_D": {
+                            "description": "Дата документа",
+                            "type": "string"
+                        },
+                        "NOTE": {
+                            "description": "Текст примечания",
+                            "type": "string"
+                        },
+                        "CU": {
+                            "description": "Информация по коду страны/ареала применения ставки",
+                            "type": "string"
+                        },
+                        "DBEGIN": {
+                            "description": "Дата начала действия ставки",
+                            "type": "string"
+                        },
+                        "DEND": {
+                            "description": "Дата окончания действия ставки",
+                            "type": "string"
+                        }
+                    }
+                },
+                "1": {
+                    "description": "Импортная пошлина",
+                    "type": "object"
+                },
+                "2": {
+                    "description": "Акциз",
+                    "type": "object"
+                },
+                "3": {
+                    "description": "НДС",
+                    "type": "object"
+                },
+                "4": {
+                    "description": "Депозит|Ставки обеспечения",
+                    "type": "object"
+                },
+                "5": {
+                    "description": "Преференциальный режим для товаров из развивающихся стран",
+                    "type": "object"
+                },
+                "6": {
+                    "description": "Лицензирование на экспорт",
+                    "type": "object"
+                },
+                "7": {
+                    "description": "Лицензирование на импорт",
+                    "type": "object"
+                },
+                "8": {
+                    "description": "Квотирование на экспорт",
+                    "type": "object"
+                },
+                "9": {
+                    "description": "Квотирование на импорт",
+                    "type": "object"
+                },
+                "10": {
+                    "description": "Сертификация",
+                    "type": "object"
+                },
+                "11": {
+                    "description": "Сертификация",
+                    "type": "object"
+                },
+                "12": {
+                    "description": "Стратегические товары",
+                    "type": "object"
+                },
+                "13": {
+                    "description": "Товары двойного применения - импорт",
+                    "type": "object"
+                },
+                "14": {
+                    "description": "Разрешительные прочие - импорт",
+                    "type": "object"
+                },
+                "15": {
+                    "description": "Прочие особенности",
+                    "type": "object"
+                },
+                "16": {
+                    "description": "Временная специальная пошлина",
+                    "type": "object"
+                },
+                "17": {
+                    "description": "Дополнительная импортная пошлина",
+                    "type": "object"
+                },
+                "18": {
+                    "description": "Особенности коэффициентов для импортной пошлины",
+                    "type": "object"
+                },
+                "19": {
+                    "description": "Антидемпинговая пошлина",
+                    "type": "object"
+                },
+                "20": {
+                    "description": "Компенсационная пошлина",
+                    "type": "object"
+                },
+                "21": {
+                    "description": "Товары двойного применения - экспорт",
+                    "type": "object"
+                },
+                "22": {
+                    "description": "Сборы экспорт",
+                    "type": "object"
+                },
+                "23": {
+                    "description": "Сборы импорт",
+                    "type": "object"
+                },
+                "24": {
+                    "description": "Импортная пошлина стран ЕАЭС",
+                    "type": "object"
+                },
+                "25": {
+                    "description": "Акциз стран ЕАЭС",
+                    "type": "object"
+                },
+                "26": {
+                    "description": "НДС стран ЕАЭС",
+                    "type": "object"
+                },
+                "27": {
+                    "description": "Разрешительные прочие - экспорт",
+                    "type": "object"
+                },
+                "28": {
+                    "description": "Маркировка",
+                    "type": "object"
+                },
+                "29": {
+                    "description": "Утилизация",
+                    "type": "object"
+                },
+                "30": {
+                    "description": "Импортная пошлина другие страны",
+                    "type": "object"
+                },
+                "31": {
+                    "description": "Экспортная пошлина стран ЕАЭС",
+                    "type": "object"
+                },
+                "32": {
+                    "description": "Преференциальный режим для товаров из наименее развитых стран",
+                    "type": "object"
+                }
+            }
+        },
+        "TNVEDCC": {
+            "description": "Информация по базовым ставкам импортной пошлины по отдельным странам / наличие примечаний по отдельным странам",
+            "type": "object",
+            "properties": {
+                "PRZ": {
+                    "description": "Номер признака",
+                    "type": "integer"
+                },
+                "CODE": {
+                    "description": "Код с",
+                    "type": "string"
+                },
+                "CC": {
+                    "description": "Информация по коду страны/ареала применения ставки",
+                    "type": "string"
+                },
+                "PRIM": {
+                    "description": "Признак наличия альтернативных ставок",
+                    "type": "integer"
+                },
+                "MIN": {
+                    "description": "Ставка 1",
+                    "type": "numeric"
+                },
+                "TYPEMIN": {
+                    "description": "Единица измерения ставки 1",
+                    "type": "string",
+                    "pattern": "^[0-9]{3}[DРБ]?$"
+                },
+                "MAX": {
+                    "description": "Ставка 2",
+                    "type": "numeric"
+                },
+                "TYPEMAX": {
+                    "description": "Единица измерения ставки 2",
+                    "type": "string",
+                    "pattern": "^[0-9]{3}[DРБ]?$"
+                },
+                "SIGN": {
+                    "description": "Знак операции между ставками 1 и 2",
+                    "type": "string"
+                },
+                "MIN2": {
+                    "description": "Ставка 3",
+                    "type": "numeric"
+                },
+                "TYPEMIN2": {
+                    "description": "Единица измерения ставки 3",
+                    "type": "string",
+                    "pattern": "^[0-9]{3}[DРБ]?$"
+                },
+                "SIGN2": {
+                    "description": "Знак операции между ставками 2 и 3",
+                    "type": "string"
+                }
+            }
+        }
+    }
+}
+
