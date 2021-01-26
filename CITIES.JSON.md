@@ -4,12 +4,12 @@
 
 ## Адреса сервиса
 
-1. HTTP: http://w7.tks.ru:5001/
-2. HTTPS: https://w7.tks.ru:5002/
+    1. HTTP: http://w7.tks.ru:5001/
+    2. HTTPS: https://w7.tks.ru:5002/
 
 ## Запросы
 
-**<адрес сервиса>**?term=**<поисковый запрос>**&mode=**\[from|to\]**
+    <адрес сервиса>?term=<поисковый запрос>&mode=[from|to]
 
 ## Режимы
 
@@ -48,6 +48,7 @@ https://w7.tks.ru:5002/?term=шан&mode=from
       "Шантобе (Shantobe), Казахстан", 
       "Бру сир Шантрен (Brou-sur-Chantereine), Франция" 
     ]
+
 
 https://w7.tks.ru:5002/?term=ме&mode=to
 
