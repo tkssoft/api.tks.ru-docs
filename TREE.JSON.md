@@ -23,7 +23,7 @@
 
 Запрос на поиск информации об узле дерева (например, идентификатора узла) по коду товара или его наименованию:
 
-    https://api1.tks.ru/tree.json/json/<ключ клиента>/search/?code=<code>&text=<goods_description>
+    https://api1.tks.ru/tree.json/json/<ключ клиента>/search/?code=<code>&searchstr=<goods_description>
 
 где
 
