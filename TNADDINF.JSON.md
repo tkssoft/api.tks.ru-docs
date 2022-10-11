@@ -6,19 +6,19 @@
 
 Запрос на получение текущей версии:
 
-    http://api1.tks.ru/tnaddinf.json/json/<ключ клиента>/ver.json
+    https://api1.tks.ru/tnaddinf.json/json/<ключ клиента>/ver.json
 
 Запрос на получение списка кодов:
 
-    http://api1.tks.ru/tnaddinf.json/json/<ключ клиента>/
+    https://api1.tks.ru/tnaddinf.json/json/<ключ клиента>/
 
 Запрос на получение информации по коду:
 
-    http://api1.tks.ru/tnaddinf.json/json/<ключ клиента>/<код ТН ВЭД>.json
+    https://api1.tks.ru/tnaddinf.json/json/<ключ клиента>/<код ТН ВЭД>.json
 
 Запрос на получение информации по всем кодам в виде ZIP-архива:
 
-    http://api1.tks.ru/tnaddinf.json/json/<ключ клиента>/archive.zip
+    https://api1.tks.ru/tnaddinf.json/json/<ключ клиента>/archive.zip
 
 где
 
@@ -35,9 +35,9 @@
 
 В случае, если информация загружается во внутреннюю систему для дальнейшего использования, клиент с некоторой периодичностью (например, один раз в час) загружает файл с номером версии. Если полученный номер версии больше, чем сохранённый ранее, клиент скачивает ZIP-архив, содержащий в себе информацию о всех кодах ТН ВЭД и о номере версии. Для этого используются запросы вида:
 
-    http://api1.tks.ru/tnaddinf.json/json/<ключ клиента>/ver.json
+    https://api1.tks.ru/tnaddinf.json/json/<ключ клиента>/ver.json
 
-    http://api1.tks.ru/tnaddinf.json/json/<ключ клиента>/archive.zip
+    https://api1.tks.ru/tnaddinf.json/json/<ключ клиента>/archive.zip
 
 ## Описание структуры данных классификатора
 
