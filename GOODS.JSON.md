@@ -4,8 +4,8 @@
 
 ## Запросы
 
-    1. http://api1.tks.ru/goods.json/json/<ключ клиента>/?searchstr=<поисковый запрос>&page=<page>
-    2. http://api1.tks.ru/goods.json/json/<ключ клиента>/?searchstr=<поисковый запрос>&page=<page>&group=code
+    1. https://api1.tks.ru/goods.json/json/<ключ клиента>/?searchstr=<поисковый запрос>&page=<page>
+    2. https://api1.tks.ru/goods.json/json/<ключ клиента>/?searchstr=<поисковый запрос>&page=<page>&group=code
 
 где
 
