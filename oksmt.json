@@ -1,16 +1,5 @@
 [
     {
-        "KOD": "000",
-        "ABC2": "00",
-        "ABC3": null,
-        "ANAIM": "НЕИЗВЕСТНА",
-        "KRNAIM": "НЕИЗВЕСТНА",
-        "NAIM": "НЕИЗВЕСТНА",
-        "KOD_AR": null,
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
         "KOD": "004",
         "ABC2": "AF",
         "ABC3": "AFG",
@@ -19,84 +8,8 @@
         "NAIM": "ПЕРЕХОДНОЕ ИСЛАМСКОЕ ГОСУДАРСТВО АФГАНИСТАН",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "008",
-        "ABC2": "AL",
-        "ABC3": "ALB",
-        "ANAIM": "ALBANIA",
-        "KRNAIM": "АЛБАНИЯ",
-        "NAIM": "РЕСПУБЛИКА АЛБАНИЯ",
-        "KOD_AR": "40,96,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "010",
-        "ABC2": "AQ",
-        "ABC3": "ATA",
-        "ANAIM": "ANTARCTICA",
-        "KRNAIM": "АНТАРКТИДА",
-        "NAIM": "АНТАРКТИДА",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "012",
-        "ABC2": "DZ",
-        "ABC3": "DZA",
-        "ANAIM": "ALGERIA",
-        "KRNAIM": "АЛЖИР",
-        "NAIM": "АЛЖИРСКАЯ НАРОДНАЯ ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "30,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "016",
-        "ABC2": "AS",
-        "ABC3": "ASM",
-        "ANAIM": "AMERICAN (EASTERN) SAMOA",
-        "KRNAIM": "АМЕРИКАНСКОЕ САМОА",
-        "NAIM": "АМЕРИКАНСКОЕ САМОА",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "020",
-        "ABC2": "AD",
-        "ABC3": "AND",
-        "ANAIM": "ANDORRA",
-        "KRNAIM": "АНДОРРА",
-        "NAIM": "КНЯЖЕСТВО АНДОРРА",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "024",
-        "ABC2": "AO",
-        "ABC3": "AGO",
-        "ANAIM": "ANGOLA",
-        "KRNAIM": "АНГОЛА",
-        "NAIM": "РЕСПУБЛИКА АНГОЛА",
-        "KOD_AR": "23,30,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "028",
-        "ABC2": "AG",
-        "ABC3": "ATG",
-        "ANAIM": "ANTIGUA AND BARBUDA",
-        "KRNAIM": "АНТИГУА И БАРБУДА",
-        "NAIM": "АНТИГУА И БАРБУДА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "031",
@@ -107,18 +20,8 @@
         "NAIM": "РЕСПУБЛИКА АЗЕРБАЙДЖАН",
         "KOD_AR": "10",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "032",
-        "ABC2": "AR",
-        "ABC3": "ARG",
-        "ANAIM": "ARGENTINA",
-        "KRNAIM": "АРГЕНТИНА",
-        "NAIM": "АРГЕНТИНСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "036",
@@ -129,7 +32,8 @@
         "NAIM": "АВСТРАЛИЯ",
         "KOD_AR": "20,50,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "040",
@@ -138,31 +42,10 @@
         "ANAIM": "AUSTRIA",
         "KRNAIM": "АВСТРИЯ",
         "NAIM": "АВСТРИЙСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "21,20,96",
+        "KOD_AR": "21,20,95,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "044",
-        "ABC2": "BS",
-        "ABC3": "BHS",
-        "ANAIM": "BAHAMAS",
-        "KRNAIM": "БАГАМЫ",
-        "NAIM": "СОДРУЖЕСТВО БАГАМЫ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "048",
-        "ABC2": "BH",
-        "ABC3": "BHR",
-        "ANAIM": "BAHRAIN",
-        "KRNAIM": "БАХРЕЙН",
-        "NAIM": "КОРОЛЕВСТВО БАХРЕЙН",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "050",
@@ -173,29 +56,8 @@
         "NAIM": "НАРОДНАЯ РЕСПУБЛИКА БАНГЛАДЕШ",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "051",
-        "ABC2": "AM",
-        "ABC3": "ARM",
-        "ANAIM": "ARMENIA",
-        "KRNAIM": "АРМЕНИЯ",
-        "NAIM": "РЕСПУБЛИКА АРМЕНИЯ",
-        "KOD_AR": "10,14",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "052",
-        "ABC2": "BB",
-        "ABC3": "BRB",
-        "ANAIM": "BARBADOS",
-        "KRNAIM": "БАРБАДОС",
-        "NAIM": "БАРБАДОС",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "056",
@@ -204,163 +66,10 @@
         "ANAIM": "BELGIUM",
         "KRNAIM": "БЕЛЬГИЯ",
         "NAIM": "КОРОЛЕВСТВО БЕЛЬГИЯ",
-        "KOD_AR": "21,20,96",
+        "KOD_AR": "21,20,95,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "060",
-        "ABC2": "BM",
-        "ABC3": "BMU",
-        "ANAIM": "BERMUDA",
-        "KRNAIM": "БЕРМУДЫ",
-        "NAIM": "БЕРМУДЫ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "064",
-        "ABC2": "BT",
-        "ABC3": "BTN",
-        "ANAIM": "BHUTAN",
-        "KRNAIM": "БУТАН",
-        "NAIM": "КОРОЛЕВСТВО БУТАН",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "068",
-        "ABC2": "BO",
-        "ABC3": "BOL",
-        "ANAIM": "ВОLIVIA",
-        "KRNAIM": "БОЛИВИЯ, МНОГОНАЦИОНАЛ. ГОСУДАРСТВО",
-        "NAIM": "МНОГОНАЦИОНАЛЬНОЕ ГОСУДАРСТВО БОЛИВИЯ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "070",
-        "ABC2": "BA",
-        "ABC3": "BIH",
-        "ANAIM": "BOSNIA AND HERZEGOWINA",
-        "KRNAIM": "БОСНИЯ И ГЕРЦЕГОВИНА",
-        "NAIM": "БОСНИЯ И ГЕРЦЕГОВИНА",
-        "KOD_AR": "40,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "072",
-        "ABC2": "BW",
-        "ABC3": "BWA",
-        "ANAIM": "BOTSWANA",
-        "KRNAIM": "БОТСВАНА",
-        "NAIM": "РЕСПУБЛИКА БОТСВАНА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "074",
-        "ABC2": "BV",
-        "ABC3": "BVT",
-        "ANAIM": "BOUVET ISLAND",
-        "KRNAIM": "ОСТРОВ БУВЕ",
-        "NAIM": "ОСТРОВ БУВЕ",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "076",
-        "ABC2": "BR",
-        "ABC3": "BRA",
-        "ANAIM": "BRAZIL",
-        "KRNAIM": "БРАЗИЛИЯ",
-        "NAIM": "ФЕДЕРАТИВНАЯ РЕСПУБЛИКА БРАЗИЛИЯ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "084",
-        "ABC2": "BZ",
-        "ABC3": "BLZ",
-        "ANAIM": "BELIZE",
-        "KRNAIM": "БЕЛИЗ",
-        "NAIM": "БЕЛИЗ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "086",
-        "ABC2": "IO",
-        "ABC3": "IOT",
-        "ANAIM": "BRITISH INDIAN OCEAN TERRITORY",
-        "KRNAIM": "БРИТАНСКАЯ ТЕРРИТОРИЯ В ИНД.ОКЕАНЕ",
-        "NAIM": "БРИТАНСКАЯ ТЕРРИТОРИЯ В ИНДИЙСКОМ ОКЕАНЕ",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "090",
-        "ABC2": "SB",
-        "ABC3": "SLB",
-        "ANAIM": "SOLOMON ISLANDS",
-        "KRNAIM": "СОЛОМОНОВЫ ОСТРОВА",
-        "NAIM": "СОЛОМОНОВЫ ОСТРОВА",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "092",
-        "ABC2": "VG",
-        "ABC3": "VGB",
-        "ANAIM": "VIRGIN ISLANDS",
-        "KRNAIM": "ВИРГИНСКИЕ ОСТРОВА, БРИТАНСКИЕ",
-        "NAIM": "БРИТАНСКИЕ ВИРГИНСКИЕ ОСТРОВА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "096",
-        "ABC2": "BN",
-        "ABC3": "BRN",
-        "ANAIM": "BRUNEL",
-        "KRNAIM": "БРУНЕЙ-ДАРУССАЛАМ",
-        "NAIM": "БРУНЕЙ-ДАРУССАЛАМ",
-        "KOD_AR": "50,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "100",
-        "ABC2": "BG",
-        "ABC3": "BGR",
-        "ANAIM": "BULGARIA",
-        "KRNAIM": "БОЛГАРИЯ",
-        "NAIM": "РЕСПУБЛИКА БОЛГАРИЯ",
-        "KOD_AR": "40,21,96",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "104",
-        "ABC2": "MM",
-        "ABC3": "MMR",
-        "ANAIM": "MYANMAR (BURMA)",
-        "KRNAIM": "МЬЯНМА",
-        "NAIM": "РЕСПУБЛИКА СОЮЗА МЬЯНМА",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "108",
@@ -371,18 +80,8 @@
         "NAIM": "РЕСПУБЛИКА БУРУНДИ",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "112",
-        "ABC2": "BY",
-        "ABC3": "BLR",
-        "ANAIM": "BELARUS",
-        "KRNAIM": "БЕЛАРУСЬ",
-        "NAIM": "РЕСПУБЛИКА БЕЛАРУСЬ",
-        "KOD_AR": "10,11,12,13,14,98,97",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "116",
@@ -393,7 +92,8 @@
         "NAIM": "КОРОЛЕВСТВО КАМБОДЖА",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "120",
@@ -404,7 +104,8 @@
         "NAIM": "РЕСПУБЛИКА КАМЕРУН",
         "KOD_AR": "23,91",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
     },
     {
         "KOD": "124",
@@ -415,40 +116,8 @@
         "NAIM": "КАНАДА",
         "KOD_AR": "20,50,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "132",
-        "ABC2": "CV",
-        "ABC3": "CPV",
-        "ANAIM": "CAPE VERDE",
-        "KRNAIM": "КАБО-ВЕРДЕ",
-        "NAIM": "РЕСПУБЛИКА КАБО-ВЕРДЕ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "136",
-        "ABC2": "KY",
-        "ABC3": "CYM",
-        "ANAIM": "CAYMAN ISLANDS",
-        "KRNAIM": "ОСТРОВА КАЙМАН",
-        "NAIM": "ОСТРОВА КАЙМАН",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "140",
-        "ABC2": "CF",
-        "ABC3": "CAF",
-        "ANAIM": "CENTRAL AFRICAN REPUBLIC",
-        "KRNAIM": "ЦЕНТРАЛЬНО-АФРИКАНСКАЯ РЕСПУБЛИКА",
-        "NAIM": "ЦЕНТРАЛЬНО-АФРИКАНСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "144",
@@ -459,7 +128,8 @@
         "NAIM": "ДЕМОКРАТИЧЕСКАЯ СОЦИАЛИСТИЧЕСКАЯ РЕСПУБЛИКА ШРИ-ЛАНКА",
         "KOD_AR": "23,91",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
     },
     {
         "KOD": "148",
@@ -470,95 +140,8 @@
         "NAIM": "РЕСПУБЛИКА ЧАД",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "152",
-        "ABC2": "CL",
-        "ABC3": "CHL",
-        "ANAIM": "CHILE",
-        "KRNAIM": "ЧИЛИ",
-        "NAIM": "РЕСПУБЛИКА ЧИЛИ",
-        "KOD_AR": "50,20,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "156",
-        "ABC2": "CN",
-        "ABC3": "CHN",
-        "ANAIM": "CHINA",
-        "KRNAIM": "КИТАЙ",
-        "NAIM": "КИТАЙСКАЯ НАРОДНАЯ РЕСПУБЛИКА",
-        "KOD_AR": "50,99,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "158",
-        "ABC2": "TW",
-        "ABC3": "TWN",
-        "ANAIM": "TAIWAN,PROVINCE OF CHINA",
-        "KRNAIM": "ТАЙВАНЬ (КИТАЙ)",
-        "NAIM": "ТАЙВАНЬ (КИТАЙ)",
-        "KOD_AR": "50,99,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "162",
-        "ABC2": "CX",
-        "ABC3": "CXR",
-        "ANAIM": "CHRISTMAS ISLAND (AUSTRALIA)",
-        "KRNAIM": "ОСТРОВ РОЖДЕСТВА",
-        "NAIM": "ОСТРОВ РОЖДЕСТВА",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "166",
-        "ABC2": "CC",
-        "ABC3": "CCK",
-        "ANAIM": "COCOS (KEELING) ISLANDS",
-        "KRNAIM": "КОКОСОВЫЕ (КИЛИНГ) ОСТРОВА",
-        "NAIM": "КОКОСОВЫЕ (КИЛИНГ) ОСТРОВА",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "170",
-        "ABC2": "CO",
-        "ABC3": "COL",
-        "ANAIM": "COLOMBIA",
-        "KRNAIM": "КОЛУМБИЯ",
-        "NAIM": "РЕСПУБЛИКА КОЛУМБИЯ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "174",
-        "ABC2": "KM",
-        "ABC3": "COM",
-        "ANAIM": "COMOROS",
-        "KRNAIM": "КОМОРЫ",
-        "NAIM": "СОЮЗ КОМОРЫ",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "175",
-        "ABC2": "YT",
-        "ABC3": "MYT",
-        "ANAIM": "MAYOTTE",
-        "KRNAIM": "МАЙОТТА",
-        "NAIM": "МАЙОТТА",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "178",
@@ -569,84 +152,8 @@
         "NAIM": "РЕСПУБЛИКА КОНГО",
         "KOD_AR": "23,91",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "180",
-        "ABC2": "CD",
-        "ABC3": "COD",
-        "ANAIM": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
-        "KRNAIM": "КОНГО, ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА",
-        "NAIM": "ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА КОНГО",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "184",
-        "ABC2": "CK",
-        "ABC3": "COK",
-        "ANAIM": "COOK ISLANDS",
-        "KRNAIM": "ОСТРОВА КУКА",
-        "NAIM": "ОСТРОВА КУКА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "188",
-        "ABC2": "CR",
-        "ABC3": "CRI",
-        "ANAIM": "COSTA RICA",
-        "KRNAIM": "КОСТА-РИКА",
-        "NAIM": "РЕСПУБЛИКА КОСТА-РИКА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "191",
-        "ABC2": "HR",
-        "ABC3": "HRV",
-        "ANAIM": "CROATIA",
-        "KRNAIM": "ХОРВАТИЯ",
-        "NAIM": "РЕСПУБЛИКА ХОРВАТИЯ",
-        "KOD_AR": "40,21,96,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "192",
-        "ABC2": "CU",
-        "ABC3": "CUB",
-        "ANAIM": "CUBA",
-        "KRNAIM": "КУБА",
-        "NAIM": "РЕСПУБЛИКА КУБА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "196",
-        "ABC2": "CY",
-        "ABC3": "CYP",
-        "ANAIM": "CYPRUS",
-        "KRNAIM": "КИПР",
-        "NAIM": "РЕСПУБЛИКА КИПР",
-        "KOD_AR": "21,96",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "203",
-        "ABC2": "CZ",
-        "ABC3": "CZE",
-        "ANAIM": "CZECH REPUBLIC",
-        "KRNAIM": "ЧЕХИЯ",
-        "NAIM": "ЧЕШСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "40,20,21,96",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
     },
     {
         "KOD": "204",
@@ -657,7 +164,8 @@
         "NAIM": "РЕСПУБЛИКА БЕНИН",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "208",
@@ -666,42 +174,10 @@
         "ANAIM": "DENMARK",
         "KRNAIM": "ДАНИЯ",
         "NAIM": "КОРОЛЕВСТВО ДАНИЯ",
-        "KOD_AR": "21,20,96",
+        "KOD_AR": "21,20,95,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "212",
-        "ABC2": "DM",
-        "ABC3": "DMA",
-        "ANAIM": "DOMINICA",
-        "KRNAIM": "ДОМИНИКА",
-        "NAIM": "СОДРУЖЕСТВО ДОМИНИКИ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "214",
-        "ABC2": "DO",
-        "ABC3": "DOM",
-        "ANAIM": "DOMINICAN REPUBLIC",
-        "KRNAIM": "ДОМИНИКАНСКАЯ РЕСПУБЛИКА",
-        "NAIM": "ДОМИНИКАНСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "218",
-        "ABC2": "EC",
-        "ABC3": "ECU",
-        "ANAIM": "ECUADOR",
-        "KRNAIM": "ЭКВАДОР",
-        "NAIM": "РЕСПУБЛИКА ЭКВАДОР",
-        "KOD_AR": "23,30,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "222",
@@ -712,18 +188,8 @@
         "NAIM": "РЕСПУБЛИКА ЭЛЬ-САЛЬВАДОР",
         "KOD_AR": "23,91",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "226",
-        "ABC2": "GQ",
-        "ABC3": "GNQ",
-        "ANAIM": "EQUATORIAL GUINEA",
-        "KRNAIM": "ЭКВАТОРИАЛЬНАЯ ГВИНЕЯ",
-        "NAIM": "РЕСПУБЛИКА ЭКВАТОРИАЛЬНАЯ ГВИНЕЯ",
-        "KOD_AR": "23,30,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
     },
     {
         "KOD": "231",
@@ -734,29 +200,8 @@
         "NAIM": "ФЕДЕРАТИВНАЯ ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА ЭФИОПИЯ",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "232",
-        "ABC2": "ER",
-        "ABC3": "ERI",
-        "ANAIM": "ERITREA",
-        "KRNAIM": "ЭРИТРЕЯ",
-        "NAIM": "ГОСУДАРСТВО ЭРИТРЕЯ",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "233",
-        "ABC2": "EE",
-        "ABC3": "EST",
-        "ANAIM": "ESTONIA",
-        "KRNAIM": "ЭСТОНИЯ",
-        "NAIM": "ЭСТОНСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "40,24,21,20,96",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "234",
@@ -767,40 +212,8 @@
         "NAIM": "ФАРЕРСКИЕ ОСТРОВА",
         "KOD_AR": "23",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "238",
-        "ABC2": "FK",
-        "ABC3": "FLK",
-        "ANAIM": "FALKLAND ISLANDS (MALVINAS)",
-        "KRNAIM": "ФОЛКЛЕНДСКИЕ ОСТРОВА (МАЛЬВИНСКИЕ)",
-        "NAIM": "ФОЛКЛЕНДСКИЕ ОСТРОВА (МАЛЬВИНСКИЕ)",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "239",
-        "ABC2": "GS",
-        "ABC3": "SGS",
-        "ANAIM": "SOUTH GEORGIA AND THE S.SANDWICH ISLANDS",
-        "KRNAIM": "ЮЖН.ДЖОРДЖИЯ И ЮЖН.САНДВИЧ.ОСТРОВА",
-        "NAIM": "ЮЖНАЯ ДЖОРДЖИЯ И ЮЖНЫЕ САНДВИЧЕВЫ ОСТРОВА",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "242",
-        "ABC2": "FJ",
-        "ABC3": "FJI",
-        "ANAIM": "FIJI",
-        "KRNAIM": "ФИДЖИ",
-        "NAIM": "РЕСПУБЛИКА  ФИДЖИ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "246",
@@ -809,20 +222,10 @@
         "ANAIM": "FINLAND",
         "KRNAIM": "ФИНЛЯНДИЯ",
         "NAIM": "ФИНЛЯНДСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "21,20,96",
+        "KOD_AR": "21,20,95,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "248",
-        "ABC2": "AX",
-        "ABC3": "ALA",
-        "ANAIM": "ALAND ISLANDS",
-        "KRNAIM": "ЭЛАНДСКИЕ ОСТРОВА",
-        "NAIM": "ЭЛАНДСКИЕ ОСТРОВА",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "250",
@@ -831,42 +234,10 @@
         "ANAIM": "FRANCE",
         "KRNAIM": "ФРАНЦИЯ",
         "NAIM": "ФРАНЦУЗСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "21,20,96",
+        "KOD_AR": "21,20,95,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "254",
-        "ABC2": "GF",
-        "ABC3": "GUF",
-        "ANAIM": "FRENCH GUIANA",
-        "KRNAIM": "ФРАНЦУЗСКАЯ ГВИАНА",
-        "NAIM": "ФРАНЦУЗСКАЯ ГВИАНА",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "258",
-        "ABC2": "PF",
-        "ABC3": "PYF",
-        "ANAIM": "FRENCH POLYNESIA",
-        "KRNAIM": "ФРАНЦУЗСКАЯ ПОЛИНЕЗИЯ",
-        "NAIM": "ФРАНЦУЗСКАЯ ПОЛИНЕЗИЯ",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "260",
-        "ABC2": "TF",
-        "ABC3": "ATF",
-        "ANAIM": "FRENCH SOUTHERN TERRITORIES",
-        "KRNAIM": "ФРАНЦУЗСКИЕ ЮЖНЫЕ ТЕРРИТОРИИ",
-        "NAIM": "ФРАНЦУЗСКИЕ ЮЖНЫЕ ТЕРРИТОРИИ",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "262",
@@ -877,51 +248,8 @@
         "NAIM": "РЕСПУБЛИКА ДЖИБУТИ",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "266",
-        "ABC2": "GA",
-        "ABC3": "GAB",
-        "ANAIM": "GABON",
-        "KRNAIM": "ГАБОН",
-        "NAIM": "ГАБОНСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "23,30,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "268",
-        "ABC2": "GE",
-        "ABC3": "GEO",
-        "ANAIM": "GEORGIA",
-        "KRNAIM": "ГРУЗИЯ",
-        "NAIM": "ГРУЗИЯ",
-        "KOD_AR": "23,90",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "270",
-        "ABC2": "GM",
-        "ABC3": "GMB",
-        "ANAIM": "GAMBIA",
-        "KRNAIM": "ГАМБИЯ",
-        "NAIM": "ИСЛАМСКАЯ РЕСПУБЛИКА ГАМБИЯ",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "275",
-        "ABC2": "PS",
-        "ABC3": "PSE",
-        "ANAIM": "STATE OF PALESTINE",
-        "KRNAIM": "ПАЛЕСТИНА,ГОСУДАРСТВО",
-        "NAIM": "ГОСУДАРСТВО ПАЛЕСТИНА",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "276",
@@ -930,9 +258,10 @@
         "ANAIM": "GERMANY",
         "KRNAIM": "ГЕРМАНИЯ",
         "NAIM": "ФЕДЕРАТИВНАЯ РЕСПУБЛИКА ГЕРМАНИЯ",
-        "KOD_AR": "21,20,96",
+        "KOD_AR": "21,20,95,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "288",
@@ -943,29 +272,8 @@
         "NAIM": "РЕСПУБЛИКА ГАНА",
         "KOD_AR": "23,91",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "292",
-        "ABC2": "GI",
-        "ABC3": "GIB",
-        "ANAIM": "GIBRALTAR",
-        "KRNAIM": "ГИБРАЛТАР",
-        "NAIM": "ГИБРАЛТАР",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "296",
-        "ABC2": "KI",
-        "ABC3": "KIR",
-        "ANAIM": "KIRIBATI",
-        "KRNAIM": "КИРИБАТИ",
-        "NAIM": "РЕСПУБЛИКА КИРИБАТИ",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
     },
     {
         "KOD": "300",
@@ -974,64 +282,10 @@
         "ANAIM": "GREECE",
         "KRNAIM": "ГРЕЦИЯ",
         "NAIM": "ГРЕЧЕСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "21,20,96",
+        "KOD_AR": "21,20,95,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "304",
-        "ABC2": "GL",
-        "ABC3": "GRL",
-        "ANAIM": "GREENLAND",
-        "KRNAIM": "ГРЕНЛАНДИЯ",
-        "NAIM": "ГРЕНЛАНДИЯ",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "308",
-        "ABC2": "GD",
-        "ABC3": "GRD",
-        "ANAIM": "GRENADA",
-        "KRNAIM": "ГРЕНАДА",
-        "NAIM": "ГРЕНАДА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "312",
-        "ABC2": "GP",
-        "ABC3": "GLP",
-        "ANAIM": "GUADELOUPE",
-        "KRNAIM": "ГВАДЕЛУПА",
-        "NAIM": "ГВАДЕЛУПА",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "316",
-        "ABC2": "GU",
-        "ABC3": "GUM",
-        "ANAIM": "GUAM",
-        "KRNAIM": "ГУАМ",
-        "NAIM": "ГУАМ",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "320",
-        "ABC2": "GT",
-        "ABC3": "GTM",
-        "ANAIM": "GUATEMALA",
-        "KRNAIM": "ГВАТЕМАЛА",
-        "NAIM": "РЕСПУБЛИКА ГВАТЕМАЛА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "324",
@@ -1042,51 +296,8 @@
         "NAIM": "ГВИНЕЙСКАЯ РЕСПУБЛИКА",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "328",
-        "ABC2": "GY",
-        "ABC3": "GUY",
-        "ANAIM": "GUYANA",
-        "KRNAIM": "ГАЙАНА",
-        "NAIM": "РЕСПУБЛИКА ГАЙАНА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "332",
-        "ABC2": "HT",
-        "ABC3": "HTI",
-        "ANAIM": "HAITI",
-        "KRNAIM": "ГАИТИ",
-        "NAIM": "РЕСПУБЛИКА ГАИТИ",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "334",
-        "ABC2": "HM",
-        "ABC3": "HMD",
-        "ANAIM": "HEARD AND MC DONALD ISLANDS",
-        "KRNAIM": "ОСТРОВ ХЕРД И ОСТРОВА МАКДОНАЛЬД",
-        "NAIM": "ОСТРОВ ХЕРД И ОСТРОВА МАКДОНАЛЬД",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "336",
-        "ABC2": "VA",
-        "ABC3": "VAT",
-        "ANAIM": "VATICAN (HOLY SEE)",
-        "KRNAIM": "ПАПСКИЙ ПРЕСТОЛ(ГОС.-ГОРОД ВАТИКАН)",
-        "NAIM": "ПАПСКИЙ ПРЕСТОЛ (ГОСУДАРСТВО-ГОРОД ВАТИКАН)",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "340",
@@ -1097,29 +308,8 @@
         "NAIM": "РЕСПУБЛИКА ГОНДУРАС",
         "KOD_AR": "23,91",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "344",
-        "ABC2": "HK",
-        "ABC3": "HKG",
-        "ANAIM": "HONG KONG",
-        "KRNAIM": "ГОНКОНГ",
-        "NAIM": "СПЕЦИАЛЬНЫЙ АДМИНИСТРАТИВНЫЙ РЕГИОН КИТАЯ ГОНКОНГ",
-        "KOD_AR": "50,99,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "348",
-        "ABC2": "HU",
-        "ABC3": "HUN",
-        "ANAIM": "HUNGARY",
-        "KRNAIM": "ВЕНГРИЯ",
-        "NAIM": "ВЕНГРИЯ",
-        "KOD_AR": "40,20,21,96",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
     },
     {
         "KOD": "352",
@@ -1130,51 +320,8 @@
         "NAIM": "РЕСПУБЛИКА ИСЛАНДИЯ",
         "KOD_AR": "22,20,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "356",
-        "ABC2": "IN",
-        "ABC3": "IND",
-        "ANAIM": "INDIA",
-        "KRNAIM": "ИНДИЯ",
-        "NAIM": "РЕСПУБЛИКА ИНДИЯ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "360",
-        "ABC2": "ID",
-        "ABC3": "IDN",
-        "ANAIM": "INDONESIA",
-        "KRNAIM": "ИНДОНЕЗИЯ",
-        "NAIM": "РЕСПУБЛИКА ИНДОНЕЗИЯ",
-        "KOD_AR": "50,30,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "364",
-        "ABC2": "IR",
-        "ABC3": "IRN",
-        "ANAIM": "IRAN",
-        "KRNAIM": "ИРАН, ИСЛАМСКАЯ РЕСПУБЛИКА",
-        "NAIM": "ИСЛАМСКАЯ РЕСПУБЛИКА ИРАН",
-        "KOD_AR": "30,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "368",
-        "ABC2": "IQ",
-        "ABC3": "IRQ",
-        "ANAIM": "IRAQ",
-        "KRNAIM": "ИРАК",
-        "NAIM": "РЕСПУБЛИКА ИРАК",
-        "KOD_AR": "30,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "372",
@@ -1183,20 +330,10 @@
         "ANAIM": "IRELAND",
         "KRNAIM": "ИРЛАНДИЯ",
         "NAIM": "ИРЛАНДИЯ",
-        "KOD_AR": "21,20,96",
+        "KOD_AR": "21,20,95,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "376",
-        "ABC2": "IL",
-        "ABC3": "ISR",
-        "ANAIM": "ISRAEL",
-        "KRNAIM": "ИЗРАИЛЬ",
-        "NAIM": "ГОСУДАРСТВО ИЗРАИЛЬ",
-        "KOD_AR": "23,20",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "380",
@@ -1205,31 +342,10 @@
         "ANAIM": "ITALY",
         "KRNAIM": "ИТАЛИЯ",
         "NAIM": "ИТАЛЬЯНСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "21,20,96",
+        "KOD_AR": "21,20,95,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "384",
-        "ABC2": "CI",
-        "ABC3": "CIV",
-        "ANAIM": "COTE D'IVOIRE",
-        "KRNAIM": "КОТ Д'ИВУАР",
-        "NAIM": "РЕСПУБЛИКА КОТ Д'ИВУАР",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "388",
-        "ABC2": "JM",
-        "ABC3": "JAM",
-        "ANAIM": "JAMAICA",
-        "KRNAIM": "ЯМАЙКА",
-        "NAIM": "ЯМАЙКА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "392",
@@ -1240,29 +356,8 @@
         "NAIM": "ЯПОНИЯ",
         "KOD_AR": "20,50",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "398",
-        "ABC2": "KZ",
-        "ABC3": "KAZ",
-        "ANAIM": "KAZAKHSTAN",
-        "KRNAIM": "КАЗАХСТАН",
-        "NAIM": "РЕСПУБЛИКА КАЗАХСТАН",
-        "KOD_AR": "10,11,12,13,14,98,97",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "400",
-        "ABC2": "JO",
-        "ABC3": "JOR",
-        "ANAIM": "JORDAN",
-        "KRNAIM": "ИОРДАНИЯ",
-        "NAIM": "ИОРДАНСКОЕ ХАШИМИТСКОЕ КОРОЛЕВСТВО",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "404",
@@ -1273,84 +368,20 @@
         "NAIM": "РЕСПУБЛИКА КЕНИЯ",
         "KOD_AR": "23,91",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "408",
-        "ABC2": "KP",
-        "ABC3": "PRK",
-        "ANAIM": "KOREA, DEMOCRATIC PEOPLE`S REPUBLIC OF",
-        "KRNAIM": "КОРЕЯ, НАРОДНО-ДЕМОКРАТИЧ.РЕСПУБЛ.",
-        "NAIM": "КОРЕЙСКАЯ НАРОДНО-ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "410",
-        "ABC2": "KR",
-        "ABC3": "KOR",
-        "ANAIM": "KOREA,REPUBLIC OF",
-        "KRNAIM": "КОРЕЯ, РЕСПУБЛИКА",
-        "NAIM": "РЕСПУБЛИКА КОРЕЯ",
-        "KOD_AR": "50,20,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "414",
-        "ABC2": "KW",
-        "ABC3": "KWT",
-        "ANAIM": "KUWAIT",
-        "KRNAIM": "КУВЕЙТ",
-        "NAIM": "ГОСУДАРСТВО КУВЕЙТ",
-        "KOD_AR": "30,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "417",
-        "ABC2": "KG",
-        "ABC3": "KGZ",
-        "ANAIM": "KYRGYZSTAN",
-        "KRNAIM": "КИРГИЗИЯ",
-        "NAIM": "КИРГИЗСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "10,11,12,14,97",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
     },
     {
         "KOD": "418",
         "ABC2": "LA",
         "ABC3": "LAO",
         "ANAIM": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
-        "KRNAIM": "ЛАОССКАЯ НАРОДНО-ДЕМОК. РЕСПУБЛИКА",
+        "KRNAIM": "ЛАОССКАЯ НАРОДНО-ДЕМОКРАТИЧ. РЕСПУБЛИКА",
         "NAIM": "ЛАОССКАЯ НАРОДНО-ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "422",
-        "ABC2": "LB",
-        "ABC3": "LBN",
-        "ANAIM": "LEBANON",
-        "KRNAIM": "ЛИВАН",
-        "NAIM": "ЛИВАНСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "426",
-        "ABC2": "LS",
-        "ABC3": "LSO",
-        "ANAIM": "LESOTHO",
-        "KRNAIM": "ЛЕСОТО",
-        "NAIM": "КОРОЛЕВСТВО ЛЕСОТО",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "428",
@@ -1359,9 +390,10 @@
         "ANAIM": "LATVIA",
         "KRNAIM": "ЛАТВИЯ",
         "NAIM": "ЛАТВИЙСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "40,24,21,96",
+        "KOD_AR": "40,24,21,95,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "430",
@@ -1372,18 +404,8 @@
         "NAIM": "РЕСПУБЛИКА ЛИБЕРИЯ",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "434",
-        "ABC2": "LY",
-        "ABC3": "LBY",
-        "ANAIM": "LIBYAN",
-        "KRNAIM": "ЛИВИЯ",
-        "NAIM": "ЛИВИЯ",
-        "KOD_AR": "30,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "438",
@@ -1394,7 +416,8 @@
         "NAIM": "КНЯЖЕСТВО ЛИХТЕНШТЕЙН",
         "KOD_AR": "23,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "440",
@@ -1403,9 +426,10 @@
         "ANAIM": "LITHUANIA",
         "KRNAIM": "ЛИТВА",
         "NAIM": "ЛИТОВСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "40,24,21,96",
+        "KOD_AR": "40,24,21,95,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "442",
@@ -1414,20 +438,10 @@
         "ANAIM": "LUXEMBOURG",
         "KRNAIM": "ЛЮКСЕМБУРГ",
         "NAIM": "ВЕЛИКОЕ ГЕРЦОГСТВО ЛЮКСЕМБУРГ",
-        "KOD_AR": "21,20,96",
+        "KOD_AR": "21,20,95,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "446",
-        "ABC2": "MO",
-        "ABC3": "MAC",
-        "ANAIM": "MACAU",
-        "KRNAIM": "МАКАО",
-        "NAIM": "СПЕЦИАЛЬНЫЙ АДМИНИСТРАТИВНЫЙ РЕГИОН КИТАЯ МАКАО",
-        "KOD_AR": "23,99",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "450",
@@ -1438,73 +452,8 @@
         "NAIM": "РЕСПУБЛИКА МАДАГАСКАР",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "454",
-        "ABC2": "MW",
-        "ABC3": "MWI",
-        "ANAIM": "MALAWI",
-        "KRNAIM": "МАЛАВИ",
-        "NAIM": "РЕСПУБЛИКА МАЛАВИ",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "458",
-        "ABC2": "MY",
-        "ABC3": "MYS",
-        "ANAIM": "MALAYSIA",
-        "KRNAIM": "МАЛАЙЗИЯ",
-        "NAIM": "МАЛАЙЗИЯ",
-        "KOD_AR": "50,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "462",
-        "ABC2": "MV",
-        "ABC3": "MDV",
-        "ANAIM": "MALDIVES",
-        "KRNAIM": "МАЛЬДИВЫ",
-        "NAIM": "МАЛЬДИВСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "466",
-        "ABC2": "ML",
-        "ABC3": "MLI",
-        "ANAIM": "MALI",
-        "KRNAIM": "МАЛИ",
-        "NAIM": "РЕСПУБЛИКА МАЛИ",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "470",
-        "ABC2": "MT",
-        "ABC3": "MLT",
-        "ANAIM": "MALTA",
-        "KRNAIM": "МАЛЬТА",
-        "NAIM": "РЕСПУБЛИКА МАЛЬТА",
-        "KOD_AR": "21,96",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "474",
-        "ABC2": "MQ",
-        "ABC3": "MTQ",
-        "ANAIM": "MARTINIQUE",
-        "KRNAIM": "МАРТИНИКА",
-        "NAIM": "МАРТИНИКА",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "478",
@@ -1515,40 +464,8 @@
         "NAIM": "ИСЛАМСКАЯ РЕСПУБЛИКА МАВРИТАНИЯ",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "480",
-        "ABC2": "MU",
-        "ABC3": "MUS",
-        "ANAIM": "MAURITIUS",
-        "KRNAIM": "МАВРИКИЙ",
-        "NAIM": "РЕСПУБЛИКА МАВРИКИЙ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "484",
-        "ABC2": "MX",
-        "ABC3": "MEX",
-        "ANAIM": "MEXICO",
-        "KRNAIM": "МЕКСИКА",
-        "NAIM": "МЕКСИКАНСКИЕ СОЕДИНЕННЫЕ ШТАТЫ",
-        "KOD_AR": "50,20,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "492",
-        "ABC2": "MC",
-        "ABC3": "MCO",
-        "ANAIM": "MONACO",
-        "KRNAIM": "МОНАКО",
-        "NAIM": "КНЯЖЕСТВО МОНАКО",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "496",
@@ -1559,7 +476,8 @@
         "NAIM": "МОНГОЛИЯ",
         "KOD_AR": "23,91",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
     },
     {
         "KOD": "498",
@@ -1570,29 +488,8 @@
         "NAIM": "РЕСПУБЛИКА МОЛДОВА",
         "KOD_AR": "10",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "499",
-        "ABC2": "ME",
-        "ABC3": "MNE",
-        "ANAIM": "MONTENEGRO",
-        "KRNAIM": "ЧЕРНОГОРИЯ",
-        "NAIM": "ЧЕРНОГОРИЯ",
-        "KOD_AR": "40,96,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "500",
-        "ABC2": "MS",
-        "ABC3": "MSR",
-        "ANAIM": "MONTSERRAT",
-        "KRNAIM": "МОНТСЕРРАТ",
-        "NAIM": "МОНТСЕРРАТ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "504",
@@ -1603,7 +500,8 @@
         "NAIM": "КОРОЛЕВСТВО МАРОККО",
         "KOD_AR": "23,91",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
     },
     {
         "KOD": "508",
@@ -1614,51 +512,8 @@
         "NAIM": "РЕСПУБЛИКА МОЗАМБИК",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "512",
-        "ABC2": "OM",
-        "ABC3": "OMN",
-        "ANAIM": "OMAN",
-        "KRNAIM": "ОМАН",
-        "NAIM": "СУЛТАНАТ ОМАН",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "516",
-        "ABC2": "NA",
-        "ABC3": "NAM",
-        "ANAIM": "NAMIBIA",
-        "KRNAIM": "НАМИБИЯ",
-        "NAIM": "РЕСПУБЛИКА НАМИБИЯ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "520",
-        "ABC2": "NR",
-        "ABC3": "NRU",
-        "ANAIM": "NAURU",
-        "KRNAIM": "НАУРУ",
-        "NAIM": "РЕСПУБЛИКА НАУРУ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "524",
-        "ABC2": "NP",
-        "ABC3": "NPL",
-        "ANAIM": "NEPAL",
-        "KRNAIM": "НЕПАЛ",
-        "NAIM": "ФЕДЕРАТИВНАЯ ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА НЕПАЛ",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "528",
@@ -1667,75 +522,10 @@
         "ANAIM": "NETHERLANDS",
         "KRNAIM": "НИДЕРЛАНДЫ",
         "NAIM": "КОРОЛЕВСТВО НИДЕРЛАНДОВ",
-        "KOD_AR": "21,20,96",
+        "KOD_AR": "21,20,95,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "531",
-        "ABC2": "CW",
-        "ABC3": "CUW",
-        "ANAIM": "CURACAO",
-        "KRNAIM": "КЮРАСАО",
-        "NAIM": "КЮРАСАО",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "533",
-        "ABC2": "AW",
-        "ABC3": "ABW",
-        "ANAIM": "ARUBA",
-        "KRNAIM": "АРУБА",
-        "NAIM": "АРУБА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "534",
-        "ABC2": "SX",
-        "ABC3": "SXM",
-        "ANAIM": "SINT MAARTEN (DUTCH PART)",
-        "KRNAIM": "СЕН-МАРТЕН(НИДЕРЛАНДСКАЯ ЧАСТЬ)",
-        "NAIM": "СЕН-МАРТЕН(НИДЕРЛАНДСКАЯ ЧАСТЬ)",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "535",
-        "ABC2": "BQ",
-        "ABC3": "BES",
-        "ANAIM": "BONAIRE, SAINT EUSTATIUS AND SABA",
-        "KRNAIM": "БОНЭЙР,СИНТ-ЭСТАТИУС И САБА",
-        "NAIM": "БОНЭЙР,СИНТ-ЭСТАТИУС И САБА",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "540",
-        "ABC2": "NC",
-        "ABC3": "NCL",
-        "ANAIM": "NEW CALEDONIA",
-        "KRNAIM": "НОВАЯ КАЛЕДОНИЯ",
-        "NAIM": "НОВАЯ КАЛЕДОНИЯ",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "548",
-        "ABC2": "VU",
-        "ABC3": "VUT",
-        "ANAIM": "VANUATU",
-        "KRNAIM": "ВАНУАТУ",
-        "NAIM": "РЕСПУБЛИКА ВАНУАТУ",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "554",
@@ -1746,7 +536,8 @@
         "NAIM": "НОВАЯ ЗЕЛАНДИЯ",
         "KOD_AR": "20,50",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "558",
@@ -1757,51 +548,8 @@
         "NAIM": "РЕСПУБЛИКА НИКАРАГУА",
         "KOD_AR": "23,91",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "562",
-        "ABC2": "NE",
-        "ABC3": "NER",
-        "ANAIM": "NIGER",
-        "KRNAIM": "НИГЕР",
-        "NAIM": "РЕСПУБЛИКА НИГЕР",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "566",
-        "ABC2": "NG",
-        "ABC3": "NGA",
-        "ANAIM": "NIGERIA",
-        "KRNAIM": "НИГЕРИЯ",
-        "NAIM": "ФЕДЕРАТИВНАЯ РЕСПУБЛИКА НИГЕРИЯ",
-        "KOD_AR": "30,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "570",
-        "ABC2": "NU",
-        "ABC3": "NIU",
-        "ANAIM": "NIUE",
-        "KRNAIM": "НИУЭ",
-        "NAIM": "НИУЭ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "574",
-        "ABC2": "NF",
-        "ABC3": "NFK",
-        "ANAIM": "NORFOLK ISLAND",
-        "KRNAIM": "ОСТРОВ НОРФОЛК",
-        "NAIM": "ОСТРОВ НОРФОЛК",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
     },
     {
         "KOD": "578",
@@ -1810,64 +558,10 @@
         "ANAIM": "NORWAY",
         "KRNAIM": "НОРВЕГИЯ",
         "NAIM": "КОРОЛЕВСТВО НОРВЕГИЯ",
-        "KOD_AR": "22,20,96",
+        "KOD_AR": "22,20,95,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "580",
-        "ABC2": "MP",
-        "ABC3": "MNP",
-        "ANAIM": "NORTHERN MARIANA ISLANDS",
-        "KRNAIM": "СЕВЕРНЫЕ МАРИАНСКИЕ ОСТРОВА",
-        "NAIM": "СОДРУЖЕСТВО СЕВЕРНЫХ МАРИАНСКИХ ОСТРОВОВ",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "581",
-        "ABC2": "UM",
-        "ABC3": "UMI",
-        "ANAIM": "UNITED STATES MINOR OUTLYING ISLANDS",
-        "KRNAIM": "МАЛЫЕ ТИХООКЕАН.ОТДАЛЕН.ОСТ-ВА С.Ш.",
-        "NAIM": "МАЛЫЕ ТИХООКЕАНСКИЕ ОТДАЛЕННЫЕ ОСТРОВА СОЕДИНЕННЫХ ШТАТОВ",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "583",
-        "ABC2": "FM",
-        "ABC3": "FSM",
-        "ANAIM": "MICRONESIA",
-        "KRNAIM": "МИКРОНЕЗИЯ, ФЕДЕРАТИВНЫЕ ШТАТЫ",
-        "NAIM": "ФЕДЕРАТИВНЫЕ ШТАТЫ МИКРОНЕЗИИ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "584",
-        "ABC2": "MH",
-        "ABC3": "MHL",
-        "ANAIM": "MARSHALL ISLANDS",
-        "KRNAIM": "МАРШАЛЛОВЫ ОСТРОВА",
-        "NAIM": "РЕСПУБЛИКА МАРШАЛЛОВЫ ОСТРОВА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "585",
-        "ABC2": "PW",
-        "ABC3": "PLW",
-        "ANAIM": "PACIFIC ISLANDS (PALAU)",
-        "KRNAIM": "ПАЛАУ",
-        "NAIM": "РЕСПУБЛИКА ПАЛАУ",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "586",
@@ -1878,51 +572,8 @@
         "NAIM": "ИСЛАМСКАЯ РЕСПУБЛИКА ПАКИСТАН",
         "KOD_AR": "23,91",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "591",
-        "ABC2": "PA",
-        "ABC3": "PAN",
-        "ANAIM": "PANAMA",
-        "KRNAIM": "ПАНАМА",
-        "NAIM": "РЕСПУБЛИКА ПАНАМА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "598",
-        "ABC2": "PG",
-        "ABC3": "PNG",
-        "ANAIM": "PAPUA NEW GUINEA",
-        "KRNAIM": "ПАПУА НОВАЯ ГВИНЕЯ",
-        "NAIM": "НЕЗАВИСИМОЕ ГОСУДАРСТВО ПАПУА НОВАЯ ГВИНЕЯ",
-        "KOD_AR": "50,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "600",
-        "ABC2": "PY",
-        "ABC3": "PRY",
-        "ANAIM": "PARAGUAY",
-        "KRNAIM": "ПАРАГВАЙ",
-        "NAIM": "РЕСПУБЛИКА ПАРАГВАЙ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "604",
-        "ABC2": "PE",
-        "ABC3": "PER",
-        "ANAIM": "PERU",
-        "KRNAIM": "ПЕРУ",
-        "NAIM": "РЕСПУБЛИКА ПЕРУ",
-        "KOD_AR": "50,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
     },
     {
         "KOD": "608",
@@ -1933,18 +584,8 @@
         "NAIM": "РЕСПУБЛИКА ФИЛИППИНЫ",
         "KOD_AR": "50,91",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "612",
-        "ABC2": "PN",
-        "ABC3": "PCN",
-        "ANAIM": "PITCAIRN",
-        "KRNAIM": "ПИТКЕРН",
-        "NAIM": "ПИТКЕРН",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
     },
     {
         "KOD": "616",
@@ -1953,9 +594,10 @@
         "ANAIM": "POLAND",
         "KRNAIM": "ПОЛЬША",
         "NAIM": "РЕСПУБЛИКА ПОЛЬША",
-        "KOD_AR": "40,20,21,96",
+        "KOD_AR": "40,20,21,95,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "620",
@@ -1964,9 +606,10 @@
         "ANAIM": "PORTUGAL",
         "KRNAIM": "ПОРТУГАЛИЯ",
         "NAIM": "ПОРТУГАЛЬСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "21,20,96",
+        "KOD_AR": "21,20,95,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "624",
@@ -1977,73 +620,8 @@
         "NAIM": "РЕСПУБЛИКА ГВИНЕЯ-БИСАУ",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "626",
-        "ABC2": "TL",
-        "ABC3": "TLS",
-        "ANAIM": "EAST TIMOR",
-        "KRNAIM": "ТИМОР-ЛЕСТЕ",
-        "NAIM": "ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА ТИМОР-ЛЕСТЕ",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "630",
-        "ABC2": "PR",
-        "ABC3": "PRI",
-        "ANAIM": "PUERTO RICO",
-        "KRNAIM": "ПУЭРТО-РИКО",
-        "NAIM": "ПУЭРТО-РИКО",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "634",
-        "ABC2": "QA",
-        "ABC3": "QAT",
-        "ANAIM": "QATAR",
-        "KRNAIM": "КАТАР",
-        "NAIM": "ГОСУДАРСТВО КАТАР",
-        "KOD_AR": "30,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "638",
-        "ABC2": "RE",
-        "ABC3": "REU",
-        "ANAIM": "REUNION",
-        "KRNAIM": "РЕЮНЬОН",
-        "NAIM": "РЕЮНЬОН",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "642",
-        "ABC2": "RO",
-        "ABC3": "ROU",
-        "ANAIM": "ROMANIA",
-        "KRNAIM": "РУМЫНИЯ",
-        "NAIM": "РУМЫНИЯ",
-        "KOD_AR": "40,21,96",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "643",
-        "ABC2": "RU",
-        "ABC3": "RUS",
-        "ANAIM": "RUSSIAN",
-        "KRNAIM": "РОССИЯ",
-        "NAIM": "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
-        "KOD_AR": "10,11,50,12,13,14,98",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "646",
@@ -2054,106 +632,8 @@
         "NAIM": "РУАНДИЙСКАЯ РЕСПУБЛИКА",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "652",
-        "ABC2": "BL",
-        "ABC3": "BLM",
-        "ANAIM": "SAINT BARTHELEMY",
-        "KRNAIM": "СЕН-БАРТЕЛЕМИ",
-        "NAIM": "СЕН-БАРТЕЛЕМИ",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "654",
-        "ABC2": "SH",
-        "ABC3": "SHN",
-        "ANAIM": "ST. HELENA",
-        "KRNAIM": "СВ.ЕЛЕНА,О.ВОЗНЕС.,ТРИСТАН-ДА-КУНЬЯ",
-        "NAIM": "СВЯТАЯ ЕЛЕНА,ОСТРОВ ВОЗНЕСЕНИЯ,ТРИСТАН-ДА-КУНЬЯ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "659",
-        "ABC2": "KN",
-        "ABC3": "KNA",
-        "ANAIM": "SAINT KITTS AND NEVIS",
-        "KRNAIM": "СЕНТ-КИТС И НЕВИС",
-        "NAIM": "СЕНТ-КИТС И НЕВИС",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "660",
-        "ABC2": "AI",
-        "ABC3": "AIA",
-        "ANAIM": "ANGUILLA",
-        "KRNAIM": "АНГИЛЬЯ",
-        "NAIM": "АНГИЛЬЯ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "662",
-        "ABC2": "LC",
-        "ABC3": "LCA",
-        "ANAIM": "SAINT LUCIA",
-        "KRNAIM": "СЕНТ-ЛЮСИЯ",
-        "NAIM": "СЕНТ-ЛЮСИЯ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "663",
-        "ABC2": "MF",
-        "ABC3": "MAF",
-        "ANAIM": "SAINT MARTIN",
-        "KRNAIM": "СЕН-МАРТЕН",
-        "NAIM": "СЕН-МАРТЕН",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "666",
-        "ABC2": "PM",
-        "ABC3": "SPM",
-        "ANAIM": "SAINT PIERRE AND MIQUELON",
-        "KRNAIM": "СЕНТ-ПЬЕР И МИКЕЛОН",
-        "NAIM": "СЕНТ-ПЬЕР И МИКЕЛОН",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "670",
-        "ABC2": "VC",
-        "ABC3": "VCT",
-        "ANAIM": "SAINT VINCENT AND THE GRENADINES",
-        "KRNAIM": "СЕНТ-ВИНСЕНТ И ГРЕНАДИНЫ",
-        "NAIM": "СЕНТ-ВИНСЕНТ И ГРЕНАДИНЫ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "674",
-        "ABC2": "SM",
-        "ABC3": "SMR",
-        "ANAIM": "SAN MARINO",
-        "KRNAIM": "САН-МАРИНО",
-        "NAIM": "РЕСПУБЛИКА САН-МАРИНО",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "678",
@@ -2164,51 +644,8 @@
         "NAIM": "ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА САН-ТОМЕ И ПРИНСИПИ",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "682",
-        "ABC2": "SA",
-        "ABC3": "SAU",
-        "ANAIM": "SAUDI ARABIA",
-        "KRNAIM": "САУДОВСКАЯ АРАВИЯ",
-        "NAIM": "КОРОЛЕВСТВО САУДОВСКАЯ АРАВИЯ",
-        "KOD_AR": "30,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "686",
-        "ABC2": "SN",
-        "ABC3": "SEN",
-        "ANAIM": "SENEGAL",
-        "KRNAIM": "СЕНЕГАЛ",
-        "NAIM": "РЕСПУБЛИКА СЕНЕГАЛ",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "688",
-        "ABC2": "RS",
-        "ABC3": "SRB",
-        "ANAIM": "SERBIA",
-        "KRNAIM": "СЕРБИЯ",
-        "NAIM": "РЕСПУБЛИКА СЕРБИЯ",
-        "KOD_AR": "40,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "690",
-        "ABC2": "SC",
-        "ABC3": "SYC",
-        "ANAIM": "SEYCHELLES",
-        "KRNAIM": "СЕЙШЕЛЫ",
-        "NAIM": "РЕСПУБЛИКА СЕЙШЕЛЫ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "694",
@@ -2219,18 +656,8 @@
         "NAIM": "РЕСПУБЛИКА СЬЕРРА-ЛЕОНЕ",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "702",
-        "ABC2": "SG",
-        "ABC3": "SGP",
-        "ANAIM": "SINGAPORE",
-        "KRNAIM": "СИНГАПУР",
-        "NAIM": "РЕСПУБЛИКА СИНГАПУР",
-        "KOD_AR": "50,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "703",
@@ -2239,64 +666,10 @@
         "ANAIM": "SLOVAKIA",
         "KRNAIM": "СЛОВАКИЯ",
         "NAIM": "СЛОВАЦКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "40,21,20,96",
+        "KOD_AR": "40,21,20,95,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "704",
-        "ABC2": "VN",
-        "ABC3": "VNM",
-        "ANAIM": "VIET NAM",
-        "KRNAIM": "ВЬЕТНАМ",
-        "NAIM": "СОЦИАЛИСТИЧЕСКАЯ РЕСПУБЛИКА ВЬЕТНАМ",
-        "KOD_AR": "50,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "705",
-        "ABC2": "SI",
-        "ABC3": "SVN",
-        "ANAIM": "SLOVENIA",
-        "KRNAIM": "СЛОВЕНИЯ",
-        "NAIM": "РЕСПУБЛИКА СЛОВЕНИЯ",
-        "KOD_AR": "40,21,20,96",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "706",
-        "ABC2": "SO",
-        "ABC3": "SOM",
-        "ANAIM": "SOMALIA",
-        "KRNAIM": "СОМАЛИ",
-        "NAIM": "ФЕДЕРАТИВНАЯ РЕСПУБЛИКА СОМАЛИ",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "710",
-        "ABC2": "ZA",
-        "ABC3": "ZAF",
-        "ANAIM": "SOUTH AFRICA",
-        "KRNAIM": "ЮЖНАЯ АФРИКА",
-        "NAIM": "ЮЖНО-АФРИКАНСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "716",
-        "ABC2": "ZW",
-        "ABC3": "ZWE",
-        "ANAIM": "ZIMBABWE",
-        "KRNAIM": "ЗИМБАБВЕ",
-        "NAIM": "РЕСПУБЛИКА ЗИМБАБВЕ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "724",
@@ -2305,75 +678,10 @@
         "ANAIM": "SPAIN",
         "KRNAIM": "ИСПАНИЯ",
         "NAIM": "КОРОЛЕВСТВО ИСПАНИЯ",
-        "KOD_AR": "21,20,96",
+        "KOD_AR": "21,20,95,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "728",
-        "ABC2": "SS",
-        "ABC3": "SSD",
-        "ANAIM": "SOUTH SUDAN",
-        "KRNAIM": "ЮЖНЫЙ СУДАН",
-        "NAIM": "РЕСПУБЛИКА ЮЖНЫЙ СУДАН",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "729",
-        "ABC2": "SD",
-        "ABC3": "SDN",
-        "ANAIM": "SUDAN",
-        "KRNAIM": "СУДАН",
-        "NAIM": "РЕСПУБЛИКА СУДАН",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "732",
-        "ABC2": "EH",
-        "ABC3": "ESH",
-        "ANAIM": "WESTERN SAHARA",
-        "KRNAIM": "ЗАПАДНАЯ САХАРА",
-        "NAIM": "ЗАПАДНАЯ САХАРА",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "740",
-        "ABC2": "SR",
-        "ABC3": "SUR",
-        "ANAIM": "SURINAME",
-        "KRNAIM": "СУРИНАМ",
-        "NAIM": "РЕСПУБЛИКА СУРИНАМ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "744",
-        "ABC2": "SJ",
-        "ABC3": "SJM",
-        "ANAIM": "SVALBARD AND JAN MAYEN ISLANDS",
-        "KRNAIM": "ШПИЦБЕРГЕН И ЯН МАЙЕН",
-        "NAIM": "ШПИЦБЕРГЕН И ЯН МАЙЕН",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "748",
-        "ABC2": "SZ",
-        "ABC3": "SWZ",
-        "ANAIM": "SWAZILAND",
-        "KRNAIM": "СВАЗИЛЕНД",
-        "NAIM": "КОРОЛЕВСТВО СВАЗИЛЕНД",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "752",
@@ -2382,9 +690,10 @@
         "ANAIM": "SWEDEN",
         "KRNAIM": "ШВЕЦИЯ",
         "NAIM": "КОРОЛЕВСТВО ШВЕЦИЯ",
-        "KOD_AR": "21,20,96",
+        "KOD_AR": "21,20,95,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "756",
@@ -2395,95 +704,8 @@
         "NAIM": "ШВЕЙЦАРСКАЯ КОНФЕДЕРАЦИЯ",
         "KOD_AR": "22,20",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "760",
-        "ABC2": "SY",
-        "ABC3": "SYR",
-        "ANAIM": "SYRIA",
-        "KRNAIM": "СИРИЙСКАЯ АРАБСКАЯ РЕСПУБЛИКА",
-        "NAIM": "СИРИЙСКАЯ АРАБСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "762",
-        "ABC2": "TJ",
-        "ABC3": "TJK",
-        "ANAIM": "TAJIKISTAN",
-        "KRNAIM": "ТАДЖИКИСТАН",
-        "NAIM": "РЕСПУБЛИКА ТАДЖИКИСТАН",
-        "KOD_AR": "10,11,12,97",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "764",
-        "ABC2": "TH",
-        "ABC3": "THA",
-        "ANAIM": "THAILAND",
-        "KRNAIM": "ТАИЛАНД",
-        "NAIM": "КОРОЛЕВСТВО ТАИЛАНД",
-        "KOD_AR": "50,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "768",
-        "ABC2": "TG",
-        "ABC3": "TGO",
-        "ANAIM": "TOGO",
-        "KRNAIM": "ТОГО",
-        "NAIM": "ТОГОЛЕЗСКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "772",
-        "ABC2": "TK",
-        "ABC3": "TKL",
-        "ANAIM": "TOKELAU",
-        "KRNAIM": "ТОКЕЛАУ",
-        "NAIM": "ТОКЕЛАУ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "776",
-        "ABC2": "TO",
-        "ABC3": "TON",
-        "ANAIM": "TONGA",
-        "KRNAIM": "ТОНГА",
-        "NAIM": "КОРОЛЕВСТВО ТОНГА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "780",
-        "ABC2": "TT",
-        "ABC3": "TTO",
-        "ANAIM": "TRINIDAD AND TOBAGO",
-        "KRNAIM": "ТРИНИДАД И ТОБАГО",
-        "NAIM": "РЕСПУБЛИКА ТРИНИДАД И ТОБАГО",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "784",
-        "ABC2": "AE",
-        "ABC3": "ARE",
-        "ANAIM": "UNITED ARAB EMIRATES",
-        "KRNAIM": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
-        "NAIM": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
-        "KOD_AR": "30,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "788",
@@ -2494,51 +716,8 @@
         "NAIM": "ТУНИССКАЯ РЕСПУБЛИКА",
         "KOD_AR": "23,91",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "792",
-        "ABC2": "TR",
-        "ABC3": "TUR",
-        "ANAIM": "TURKEY",
-        "KRNAIM": "ТУРЦИЯ",
-        "NAIM": "ТУРЕЦКАЯ РЕСПУБЛИКА",
-        "KOD_AR": "20,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "795",
-        "ABC2": "TM",
-        "ABC3": "TKM",
-        "ANAIM": "TURKMENISTAN",
-        "KRNAIM": "ТУРКМЕНИЯ",
-        "NAIM": "ТУРКМЕНИСТАН",
-        "KOD_AR": "10",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "796",
-        "ABC2": "TC",
-        "ABC3": "TCA",
-        "ANAIM": "TURKS AND CAICOS ISLANDS",
-        "KRNAIM": "ОСТРОВА ТЕРКС И КАЙКОС",
-        "NAIM": "ОСТРОВА ТЕРКС И КАЙКОС",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "798",
-        "ABC2": "TV",
-        "ABC3": "TUV",
-        "ANAIM": "TUVALU",
-        "KRNAIM": "ТУВАЛУ",
-        "NAIM": "ТУВАЛУ",
-        "KOD_AR": "23,92",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
     },
     {
         "KOD": "800",
@@ -2549,84 +728,8 @@
         "NAIM": "РЕСПУБЛИКА УГАНДА",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "804",
-        "ABC2": "UA",
-        "ABC3": "UKR",
-        "ANAIM": "UKRAINE",
-        "KRNAIM": "УКРАИНА",
-        "NAIM": "УКРАИНА",
-        "KOD_AR": "96",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "807",
-        "ABC2": "MK",
-        "ABC3": "MKD",
-        "ANAIM": "MACEDONIA",
-        "KRNAIM": "РЕСПУБЛИКА МАКЕДОНИЯ",
-        "NAIM": "РЕСПУБЛИКА МАКЕДОНИЯ",
-        "KOD_AR": "40,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "818",
-        "ABC2": "EG",
-        "ABC3": "EGY",
-        "ANAIM": "EGYPT",
-        "KRNAIM": "ЕГИПЕТ",
-        "NAIM": "АРАБСКАЯ РЕСПУБЛИКА ЕГИПЕТ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "826",
-        "ABC2": "GB",
-        "ABC3": "GBR",
-        "ANAIM": "UK OF GREAT BRITAIN AND NORTHERN IRELAND",
-        "KRNAIM": "СОЕДИНЕННОЕ КОРОЛЕВСТВО",
-        "NAIM": "СОЕДИНЕННОЕ КОРОЛЕВСТВО ВЕЛИКОБРИТАНИИ И СЕВЕРНОЙ ИРЛАНДИИ",
-        "KOD_AR": "21,20,96",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "831",
-        "ABC2": "GG",
-        "ABC3": "GGY",
-        "ANAIM": "GUERNSEY",
-        "KRNAIM": "ГЕРНСИ",
-        "NAIM": "ГЕРНСИ",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "832",
-        "ABC2": "JE",
-        "ABC3": "JEY",
-        "ANAIM": "JERSEY",
-        "KRNAIM": "ДЖЕРСИ",
-        "NAIM": "ДЖЕРСИ",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "833",
-        "ABC2": "IM",
-        "ABC3": "IMN",
-        "ANAIM": "ISLE OF MAN",
-        "KRNAIM": "ОСТРОВ МЭН",
-        "NAIM": "ОСТРОВ МЭН",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "834",
@@ -2637,7 +740,8 @@
         "NAIM": "ОБЪЕДИНЕННАЯ РЕСПУБЛИКА ТАНЗАНИЯ",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "840",
@@ -2648,18 +752,8 @@
         "NAIM": "СОЕДИНЕННЫЕ ШТАТЫ АМЕРИКИ",
         "KOD_AR": "20,50,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "850",
-        "ABC2": "VI",
-        "ABC3": "VIR",
-        "ANAIM": "VIRGIN ISLANDS (U.S.)",
-        "KRNAIM": "ВИРГИНСКИЕ ОСТРОВА, США",
-        "NAIM": "ВИРГИНСКИЕ ОСТРОВА СОЕДИНЕННЫХ ШТАТОВ АМЕРИКИ",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "854",
@@ -2670,62 +764,8 @@
         "NAIM": "БУРКИНА-ФАСО",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "858",
-        "ABC2": "UY",
-        "ABC3": "URY",
-        "ANAIM": "URUGUAY",
-        "KRNAIM": "УРУГВАЙ",
-        "NAIM": "ВОСТОЧНАЯ РЕСПУБЛИКА УРУГВАЙ",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "860",
-        "ABC2": "UZ",
-        "ABC3": "UZB",
-        "ANAIM": "UZBEKISTAN",
-        "KRNAIM": "УЗБЕКИСТАН",
-        "NAIM": "РЕСПУБЛИКА УЗБЕКИСТАН",
-        "KOD_AR": "10",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.0
-    },
-    {
-        "KOD": "862",
-        "ABC2": "VE",
-        "ABC3": "VEN",
-        "ANAIM": "VENEZUELA",
-        "KRNAIM": "ВЕНЕСУЭЛА,БОЛИВАРИАНСКАЯ РЕСПУБЛИКА",
-        "NAIM": "БОЛИВАРИАНСКАЯ РЕСПУБЛИКА ВЕНЕСУЭЛА",
-        "KOD_AR": "30,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
-    },
-    {
-        "KOD": "876",
-        "ABC2": "WF",
-        "ABC3": "WLF",
-        "ANAIM": "WALLIS AND FUTUNA ISLANDS",
-        "KRNAIM": "УОЛЛИС И ФУТУНА",
-        "NAIM": "УОЛЛИС И ФУТУНА",
-        "KOD_AR": "23",
-        "IMPORT": 1.0,
-        "S_IMPORT": 1.0
-    },
-    {
-        "KOD": "882",
-        "ABC2": "WS",
-        "ABC3": "WSM",
-        "ANAIM": "SAMOA",
-        "KRNAIM": "САМОА",
-        "NAIM": "НЕЗАВИСИМОЕ ГОСУДАРСТВО САМОА",
-        "KOD_AR": "23,91",
-        "IMPORT": 1.0,
-        "S_IMPORT": 0.75
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "887",
@@ -2736,7 +776,8 @@
         "NAIM": "ЙЕМЕНСКАЯ РЕСПУБЛИКА",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
         "KOD": "894",
@@ -2747,18 +788,44 @@
         "NAIM": "РЕСПУБЛИКА ЗАМБИЯ",
         "KOD_AR": "23,92",
         "IMPORT": 1.0,
-        "S_IMPORT": 0.0
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
     },
     {
-        "KOD": "895",
-        "ABC2": "AB",
-        "ABC3": "ABH",
-        "ANAIM": "REPUBLIC ABHAZIA",
-        "KRNAIM": "АБХАЗИЯ",
-        "NAIM": "РЕСПУБЛИКА АБХАЗИЯ",
-        "KOD_AR": "23",
+        "KOD": "100",
+        "ABC2": "BG",
+        "ABC3": "BGR",
+        "ANAIM": "BULGARIA",
+        "KRNAIM": "БОЛГАРИЯ",
+        "NAIM": "РЕСПУБЛИКА БОЛГАРИЯ",
+        "KOD_AR": "40,21,95,96",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "642",
+        "ABC2": "RO",
+        "ABC3": "ROU",
+        "ANAIM": "ROMANIA",
+        "KRNAIM": "РУМЫНИЯ",
+        "NAIM": "РУМЫНИЯ",
+        "KOD_AR": "40,21,95,96",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "132",
+        "ABC2": "CV",
+        "ABC3": "CPV",
+        "ANAIM": "CAPE VERDE",
+        "KRNAIM": "КАБО-ВЕРДЕ",
+        "NAIM": "РЕСПУБЛИКА КАБО-ВЕРДЕ",
+        "KOD_AR": "23,91",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
     },
     {
         "KOD": "896",
@@ -2767,9 +834,2230 @@
         "ANAIM": "REPUBLIC SOUTH OSSETIA",
         "KRNAIM": "ЮЖНАЯ ОСЕТИЯ",
         "NAIM": "РЕСПУБЛИКА ЮЖНАЯ ОСЕТИЯ",
+        "KOD_AR": "23,90,94",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "895",
+        "ABC2": "AB",
+        "ABC3": "ABH",
+        "ANAIM": "REPUBLIC ABHAZIA",
+        "KRNAIM": "АБХАЗИЯ",
+        "NAIM": "РЕСПУБЛИКА АБХАЗИЯ",
+        "KOD_AR": "23,90,94",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "268",
+        "ABC2": "GE",
+        "ABC3": "GEO",
+        "ANAIM": "GEORGIA",
+        "KRNAIM": "ГРУЗИЯ",
+        "NAIM": "ГРУЗИЯ",
+        "KOD_AR": "23,90",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "196",
+        "ABC2": "CY",
+        "ABC3": "CYP",
+        "ANAIM": "CYPRUS",
+        "KRNAIM": "КИПР",
+        "NAIM": "РЕСПУБЛИКА КИПР",
+        "KOD_AR": "21,95,96",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "470",
+        "ABC2": "MT",
+        "ABC3": "MLT",
+        "ANAIM": "MALTA",
+        "KRNAIM": "МАЛЬТА",
+        "NAIM": "РЕСПУБЛИКА МАЛЬТА",
+        "KOD_AR": "21,95,96",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "180",
+        "ABC2": "CD",
+        "ABC3": "COD",
+        "ANAIM": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+        "KRNAIM": "КОНГО, ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА",
+        "NAIM": "ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА КОНГО",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "233",
+        "ABC2": "EE",
+        "ABC3": "EST",
+        "ANAIM": "ESTONIA",
+        "KRNAIM": "ЭСТОНИЯ",
+        "NAIM": "ЭСТОНСКАЯ РЕСПУБЛИКА",
+        "KOD_AR": "40,24,21,20,95,96",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "705",
+        "ABC2": "SI",
+        "ABC3": "SVN",
+        "ANAIM": "SLOVENIA",
+        "KRNAIM": "СЛОВЕНИЯ",
+        "NAIM": "РЕСПУБЛИКА СЛОВЕНИЯ",
+        "KOD_AR": "40,21,20,95,96",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "376",
+        "ABC2": "IL",
+        "ABC3": "ISR",
+        "ANAIM": "ISRAEL",
+        "KRNAIM": "ИЗРАИЛЬ",
+        "NAIM": "ГОСУДАРСТВО ИЗРАИЛЬ",
+        "KOD_AR": "23,20",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "104",
+        "ABC2": "MM",
+        "ABC3": "MMR",
+        "ANAIM": "MYANMAR (BURMA)",
+        "KRNAIM": "МЬЯНМА",
+        "NAIM": "РЕСПУБЛИКА СОЮЗА МЬЯНМА",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "729",
+        "ABC2": "SD",
+        "ABC3": "SDN",
+        "ANAIM": "SUDAN",
+        "KRNAIM": "СУДАН",
+        "NAIM": "РЕСПУБЛИКА СУДАН",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "304",
+        "ABC2": "GL",
+        "ABC3": "GRL",
+        "ANAIM": "GREENLAND",
+        "KRNAIM": "ГРЕНЛАНДИЯ",
+        "NAIM": "ГРЕНЛАНДИЯ",
         "KOD_AR": "23",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "492",
+        "ABC2": "MC",
+        "ABC3": "MCO",
+        "ANAIM": "MONACO",
+        "KRNAIM": "МОНАКО",
+        "NAIM": "КНЯЖЕСТВО МОНАКО",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "630",
+        "ABC2": "PR",
+        "ABC3": "PRI",
+        "ANAIM": "PUERTO RICO",
+        "KRNAIM": "ПУЭРТО-РИКО",
+        "NAIM": "ПУЭРТО-РИКО",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "860",
+        "ABC2": "UZ",
+        "ABC3": "UZB",
+        "ANAIM": "UZBEKISTAN",
+        "KRNAIM": "УЗБЕКИСТАН",
+        "NAIM": "РЕСПУБЛИКА УЗБЕКИСТАН",
+        "KOD_AR": "10",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "064",
+        "ABC2": "BT",
+        "ABC3": "BTN",
+        "ANAIM": "BHUTAN",
+        "KRNAIM": "БУТАН",
+        "NAIM": "КОРОЛЕВСТВО БУТАН",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "332",
+        "ABC2": "HT",
+        "ABC3": "HTI",
+        "ANAIM": "HAITI",
+        "KRNAIM": "ГАИТИ",
+        "NAIM": "РЕСПУБЛИКА ГАИТИ",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "296",
+        "ABC2": "KI",
+        "ABC3": "KIR",
+        "ANAIM": "KIRIBATI",
+        "KRNAIM": "КИРИБАТИ",
+        "NAIM": "РЕСПУБЛИКА КИРИБАТИ",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "174",
+        "ABC2": "KM",
+        "ABC3": "COM",
+        "ANAIM": "COMOROS",
+        "KRNAIM": "КОМОРЫ",
+        "NAIM": "СОЮЗ КОМОРЫ",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "454",
+        "ABC2": "MW",
+        "ABC3": "MWI",
+        "ANAIM": "MALAWI",
+        "KRNAIM": "МАЛАВИ",
+        "NAIM": "РЕСПУБЛИКА МАЛАВИ",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "686",
+        "ABC2": "SN",
+        "ABC3": "SEN",
+        "ANAIM": "SENEGAL",
+        "KRNAIM": "СЕНЕГАЛ",
+        "NAIM": "РЕСПУБЛИКА СЕНЕГАЛ",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "090",
+        "ABC2": "SB",
+        "ABC3": "SLB",
+        "ANAIM": "SOLOMON ISLANDS",
+        "KRNAIM": "СОЛОМОНОВЫ ОСТРОВА",
+        "NAIM": "СОЛОМОНОВЫ ОСТРОВА",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "626",
+        "ABC2": "TL",
+        "ABC3": "TLS",
+        "ANAIM": "EAST TIMOR",
+        "KRNAIM": "ТИМОР-ЛЕСТЕ",
+        "NAIM": "ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА ТИМОР-ЛЕСТЕ",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "768",
+        "ABC2": "TG",
+        "ABC3": "TGO",
+        "ANAIM": "TOGO",
+        "KRNAIM": "ТОГО",
+        "NAIM": "ТОГОЛЕЗСКАЯ РЕСПУБЛИКА",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "798",
+        "ABC2": "TV",
+        "ABC3": "TUV",
+        "ANAIM": "TUVALU",
+        "KRNAIM": "ТУВАЛУ",
+        "NAIM": "ТУВАЛУ",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "140",
+        "ABC2": "CF",
+        "ABC3": "CAF",
+        "ANAIM": "CENTRAL AFRICAN REPUBLIC",
+        "KRNAIM": "ЦЕНТРАЛЬНО-АФРИКАНСКАЯ РЕСПУБЛИКА",
+        "NAIM": "ЦЕНТРАЛЬНО-АФРИКАНСКАЯ РЕСПУБЛИКА",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "012",
+        "ABC2": "DZ",
+        "ABC3": "DZA",
+        "ANAIM": "ALGERIA",
+        "KRNAIM": "АЛЖИР",
+        "NAIM": "АЛЖИРСКАЯ НАРОДНАЯ ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА",
+        "KOD_AR": "30,91",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "016",
+        "ABC2": "AS",
+        "ABC3": "ASM",
+        "ANAIM": "AMERICAN (EASTERN) SAMOA",
+        "KRNAIM": "АМЕРИКАНСКОЕ САМОА",
+        "NAIM": "АМЕРИКАНСКОЕ САМОА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "020",
+        "ABC2": "AD",
+        "ABC3": "AND",
+        "ANAIM": "ANDORRA",
+        "KRNAIM": "АНДОРРА",
+        "NAIM": "КНЯЖЕСТВО АНДОРРА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "010",
+        "ABC2": "AQ",
+        "ABC3": "ATA",
+        "ANAIM": "ANTARCTICA",
+        "KRNAIM": "АНТАРКТИДА",
+        "NAIM": "АНТАРКТИДА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "535",
+        "ABC2": "BQ",
+        "ABC3": "BES",
+        "ANAIM": "BONAIRE, SAINT EUSTATIUS AND SABA",
+        "KRNAIM": "БОНЭЙР,СИНТ-ЭСТАТИУС И САБА",
+        "NAIM": "БОНЭЙР,СИНТ-ЭСТАТИУС И САБА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "086",
+        "ABC2": "IO",
+        "ABC3": "IOT",
+        "ANAIM": "BRITISH INDIAN OCEAN TERRITORY",
+        "KRNAIM": "БРИТАНСКАЯ ТЕРРИТОРИЯ В ИНД.ОКЕАНЕ",
+        "NAIM": "БРИТАНСКАЯ ТЕРРИТОРИЯ В ИНДИЙСКОМ ОКЕАНЕ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "074",
+        "ABC2": "BV",
+        "ABC3": "BVT",
+        "ANAIM": "BOUVET ISLAND",
+        "KRNAIM": "ОСТРОВ БУВЕ",
+        "NAIM": "ОСТРОВ БУВЕ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "312",
+        "ABC2": "GP",
+        "ABC3": "GLP",
+        "ANAIM": "GUADELOUPE",
+        "KRNAIM": "ГВАДЕЛУПА",
+        "NAIM": "ГВАДЕЛУПА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "292",
+        "ABC2": "GI",
+        "ABC3": "GIB",
+        "ANAIM": "GIBRALTAR",
+        "KRNAIM": "ГИБРАЛТАР",
+        "NAIM": "ГИБРАЛТАР",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "316",
+        "ABC2": "GU",
+        "ABC3": "GUM",
+        "ANAIM": "GUAM",
+        "KRNAIM": "ГУАМ",
+        "NAIM": "ГУАМ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "832",
+        "ABC2": "JE",
+        "ABC3": "JEY",
+        "ANAIM": "JERSEY",
+        "KRNAIM": "ДЖЕРСИ",
+        "NAIM": "ДЖЕРСИ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "732",
+        "ABC2": "EH",
+        "ABC3": "ESH",
+        "ANAIM": "WESTERN SAHARA",
+        "KRNAIM": "ЗАПАДНАЯ САХАРА",
+        "NAIM": "ЗАПАДНАЯ САХАРА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "166",
+        "ABC2": "CC",
+        "ABC3": "CCK",
+        "ANAIM": "COCOS (KEELING) ISLANDS",
+        "KRNAIM": "КОКОСОВЫЕ (КИЛИНГ) ОСТРОВА",
+        "NAIM": "КОКОСОВЫЕ (КИЛИНГ) ОСТРОВА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "531",
+        "ABC2": "CW",
+        "ABC3": "CUW",
+        "ANAIM": "CURACAO",
+        "KRNAIM": "КЮРАСАО",
+        "NAIM": "КЮРАСАО",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "175",
+        "ABC2": "YT",
+        "ABC3": "MYT",
+        "ANAIM": "MAYOTTE",
+        "KRNAIM": "МАЙОТТА",
+        "NAIM": "МАЙОТТА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "581",
+        "ABC2": "UM",
+        "ABC3": "UMI",
+        "ANAIM": "UNITED STATES MINOR OUTLYING ISLANDS",
+        "KRNAIM": "МАЛЫЕ ТИХООКЕАН.ОТДАЛЕН.ОСТ-ВА С.Ш.",
+        "NAIM": "МАЛЫЕ ТИХООКЕАНСКИЕ ОТДАЛЕННЫЕ ОСТРОВА СОЕДИНЕННЫХ ШТАТОВ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "474",
+        "ABC2": "MQ",
+        "ABC3": "MTQ",
+        "ANAIM": "MARTINIQUE",
+        "KRNAIM": "МАРТИНИКА",
+        "NAIM": "МАРТИНИКА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "584",
+        "ABC2": "MH",
+        "ABC3": "MHL",
+        "ANAIM": "MARSHALL ISLANDS",
+        "KRNAIM": "МАРШАЛЛОВЫ ОСТРОВА",
+        "NAIM": "РЕСПУБЛИКА МАРШАЛЛОВЫ ОСТРОВА",
+        "KOD_AR": "23,91",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "540",
+        "ABC2": "NC",
+        "ABC3": "NCL",
+        "ANAIM": "NEW CALEDONIA",
+        "KRNAIM": "НОВАЯ КАЛЕДОНИЯ",
+        "NAIM": "НОВАЯ КАЛЕДОНИЯ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "574",
+        "ABC2": "NF",
+        "ABC3": "NFK",
+        "ANAIM": "NORFOLK ISLAND",
+        "KRNAIM": "ОСТРОВ НОРФОЛК",
+        "NAIM": "ОСТРОВ НОРФОЛК",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "162",
+        "ABC2": "CX",
+        "ABC3": "CXR",
+        "ANAIM": "CHRISTMAS ISLAND (AUSTRALIA)",
+        "KRNAIM": "ОСТРОВ РОЖДЕСТВА",
+        "NAIM": "ОСТРОВ РОЖДЕСТВА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "334",
+        "ABC2": "HM",
+        "ABC3": "HMD",
+        "ANAIM": "HEARD AND MC DONALD ISLANDS",
+        "KRNAIM": "ОСТРОВ ХЕРД И ОСТРОВА МАКДОНАЛЬД",
+        "NAIM": "ОСТРОВ ХЕРД И ОСТРОВА МАКДОНАЛЬД",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "585",
+        "ABC2": "PW",
+        "ABC3": "PLW",
+        "ANAIM": "PACIFIC ISLANDS (PALAU)",
+        "KRNAIM": "ПАЛАУ",
+        "NAIM": "РЕСПУБЛИКА ПАЛАУ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "336",
+        "ABC2": "VA",
+        "ABC3": "VAT",
+        "ANAIM": "VATICAN (HOLY SEE)",
+        "KRNAIM": "ПАПСКИЙ ПРЕСТОЛ(ГОС.-ГОРОД ВАТИКАН)",
+        "NAIM": "ПАПСКИЙ ПРЕСТОЛ (ГОСУДАРСТВО-ГОРОД ВАТИКАН)",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "612",
+        "ABC2": "PN",
+        "ABC3": "PCN",
+        "ANAIM": "PITCAIRN",
+        "KRNAIM": "ПИТКЕРН",
+        "NAIM": "ПИТКЕРН",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "638",
+        "ABC2": "RE",
+        "ABC3": "REU",
+        "ANAIM": "REUNION",
+        "KRNAIM": "РЕЮНЬОН",
+        "NAIM": "РЕЮНЬОН",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "674",
+        "ABC2": "SM",
+        "ABC3": "SMR",
+        "ANAIM": "SAN MARINO",
+        "KRNAIM": "САН-МАРИНО",
+        "NAIM": "РЕСПУБЛИКА САН-МАРИНО",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "580",
+        "ABC2": "MP",
+        "ABC3": "MNP",
+        "ANAIM": "NORTHERN MARIANA ISLANDS",
+        "KRNAIM": "СЕВЕРНЫЕ МАРИАНСКИЕ ОСТРОВА",
+        "NAIM": "СОДРУЖЕСТВО СЕВЕРНЫХ МАРИАНСКИХ ОСТРОВОВ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "652",
+        "ABC2": "BL",
+        "ABC3": "BLM",
+        "ANAIM": "SAINT BARTHELEMY",
+        "KRNAIM": "СЕН-БАРТЕЛЕМИ",
+        "NAIM": "СЕН-БАРТЕЛЕМИ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "534",
+        "ABC2": "SX",
+        "ABC3": "SXM",
+        "ANAIM": "SINT MAARTEN (DUTCH PART)",
+        "KRNAIM": "СЕН-МАРТЕН(НИДЕРЛАНДСКАЯ ЧАСТЬ)",
+        "NAIM": "СЕН-МАРТЕН(НИДЕРЛАНДСКАЯ ЧАСТЬ)",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "666",
+        "ABC2": "PM",
+        "ABC3": "SPM",
+        "ANAIM": "SAINT PIERRE AND MIQUELON",
+        "KRNAIM": "СЕНТ-ПЬЕР И МИКЕЛОН",
+        "NAIM": "СЕНТ-ПЬЕР И МИКЕЛОН",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "876",
+        "ABC2": "WF",
+        "ABC3": "WLF",
+        "ANAIM": "WALLIS AND FUTUNA ISLANDS",
+        "KRNAIM": "УОЛЛИС И ФУТУНА",
+        "NAIM": "УОЛЛИС И ФУТУНА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "238",
+        "ABC2": "FK",
+        "ABC3": "FLK",
+        "ANAIM": "FALKLAND ISLANDS (MALVINAS)",
+        "KRNAIM": "ФОЛКЛЕНДСКИЕ ОСТРОВА (МАЛЬВИНСКИЕ)",
+        "NAIM": "ФОЛКЛЕНДСКИЕ ОСТРОВА (МАЛЬВИНСКИЕ)",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "254",
+        "ABC2": "GF",
+        "ABC3": "GUF",
+        "ANAIM": "FRENCH GUIANA",
+        "KRNAIM": "ФРАНЦУЗСКАЯ ГВИАНА",
+        "NAIM": "ФРАНЦУЗСКАЯ ГВИАНА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "258",
+        "ABC2": "PF",
+        "ABC3": "PYF",
+        "ANAIM": "FRENCH POLYNESIA",
+        "KRNAIM": "ФРАНЦУЗСКАЯ ПОЛИНЕЗИЯ",
+        "NAIM": "ФРАНЦУЗСКАЯ ПОЛИНЕЗИЯ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "260",
+        "ABC2": "TF",
+        "ABC3": "ATF",
+        "ANAIM": "FRENCH SOUTHERN TERRITORIES",
+        "KRNAIM": "ФРАНЦУЗСКИЕ ЮЖНЫЕ ТЕРРИТОРИИ",
+        "NAIM": "ФРАНЦУЗСКИЕ ЮЖНЫЕ ТЕРРИТОРИИ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "744",
+        "ABC2": "SJ",
+        "ABC3": "SJM",
+        "ANAIM": "SVALBARD AND JAN MAYEN ISLANDS",
+        "KRNAIM": "ШПИЦБЕРГЕН И ЯН МАЙЕН",
+        "NAIM": "ШПИЦБЕРГЕН И ЯН МАЙЕН",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "248",
+        "ABC2": "AX",
+        "ABC3": "ALA",
+        "ANAIM": "ALAND ISLANDS",
+        "KRNAIM": "ЭЛАНДСКИЕ ОСТРОВА",
+        "NAIM": "ЭЛАНДСКИЕ ОСТРОВА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "239",
+        "ABC2": "GS",
+        "ABC3": "SGS",
+        "ANAIM": "SOUTH GEORGIA AND THE S.SANDWICH ISLANDS",
+        "KRNAIM": "ЮЖН.ДЖОРДЖИЯ И ЮЖН.САНДВИЧ.ОСТРОВА",
+        "NAIM": "ЮЖНАЯ ДЖОРДЖИЯ И ЮЖНЫЕ САНДВИЧЕВЫ ОСТРОВА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "348",
+        "ABC2": "HU",
+        "ABC3": "HUN",
+        "ANAIM": "HUNGARY",
+        "KRNAIM": "ВЕНГРИЯ",
+        "NAIM": "ВЕНГРИЯ",
+        "KOD_AR": "40,20,21,95,96",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "232",
+        "ABC2": "ER",
+        "ABC3": "ERI",
+        "ANAIM": "ERITREA",
+        "KRNAIM": "ЭРИТРЕЯ",
+        "NAIM": "ГОСУДАРСТВО ЭРИТРЕЯ",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "024",
+        "ABC2": "AO",
+        "ABC3": "AGO",
+        "ANAIM": "ANGOLA",
+        "KRNAIM": "АНГОЛА",
+        "NAIM": "РЕСПУБЛИКА АНГОЛА",
+        "KOD_AR": "23,30,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "818",
+        "ABC2": "EG",
+        "ABC3": "EGY",
+        "ANAIM": "EGYPT",
+        "KRNAIM": "ЕГИПЕТ",
+        "NAIM": "АРАБСКАЯ РЕСПУБЛИКА ЕГИПЕТ",
+        "KOD_AR": "23,91",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "716",
+        "ABC2": "ZW",
+        "ABC3": "ZWE",
+        "ANAIM": "ZIMBABWE",
+        "KRNAIM": "ЗИМБАБВЕ",
+        "NAIM": "РЕСПУБЛИКА ЗИМБАБВЕ",
+        "KOD_AR": "23,91",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "192",
+        "ABC2": "CU",
+        "ABC3": "CUB",
+        "ANAIM": "CUBA",
+        "KRNAIM": "КУБА",
+        "NAIM": "РЕСПУБЛИКА КУБА",
+        "KOD_AR": "23,91",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "426",
+        "ABC2": "LS",
+        "ABC3": "LSO",
+        "ANAIM": "LESOTHO",
+        "KRNAIM": "ЛЕСОТО",
+        "NAIM": "КОРОЛЕВСТВО ЛЕСОТО",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "562",
+        "ABC2": "NE",
+        "ABC3": "NER",
+        "ANAIM": "NIGER",
+        "KRNAIM": "НИГЕР",
+        "NAIM": "РЕСПУБЛИКА НИГЕР",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "566",
+        "ABC2": "NG",
+        "ABC3": "NGA",
+        "ANAIM": "NIGERIA",
+        "KRNAIM": "НИГЕРИЯ",
+        "NAIM": "ФЕДЕРАТИВНАЯ РЕСПУБЛИКА НИГЕРИЯ",
+        "KOD_AR": "30,91",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "466",
+        "ABC2": "ML",
+        "ABC3": "MLI",
+        "ANAIM": "MALI",
+        "KRNAIM": "МАЛИ",
+        "NAIM": "РЕСПУБЛИКА МАЛИ",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "762",
+        "ABC2": "TJ",
+        "ABC3": "TJK",
+        "ANAIM": "TAJIKISTAN",
+        "KRNAIM": "ТАДЖИКИСТАН",
+        "NAIM": "РЕСПУБЛИКА ТАДЖИКИСТАН",
+        "KOD_AR": "10,11,12,97",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "384",
+        "ABC2": "CI",
+        "ABC3": "CIV",
+        "ANAIM": "COTE D'IVOIRE",
+        "KRNAIM": "КОТ Д'ИВУАР",
+        "NAIM": "РЕСПУБЛИКА КОТ Д'ИВУАР",
+        "KOD_AR": "23,91",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "191",
+        "ABC2": "HR",
+        "ABC3": "HRV",
+        "ANAIM": "CROATIA",
+        "KRNAIM": "ХОРВАТИЯ",
+        "NAIM": "РЕСПУБЛИКА ХОРВАТИЯ",
+        "KOD_AR": "40,21,95,96",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "598",
+        "ABC2": "PG",
+        "ABC3": "PNG",
+        "ANAIM": "PAPUA NEW GUINEA",
+        "KRNAIM": "ПАПУА НОВАЯ ГВИНЕЯ",
+        "NAIM": "НЕЗАВИСИМОЕ ГОСУДАРСТВО ПАПУА НОВАЯ ГВИНЕЯ",
+        "KOD_AR": "50,91",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "706",
+        "ABC2": "SO",
+        "ABC3": "SOM",
+        "ANAIM": "SOMALIA",
+        "KRNAIM": "СОМАЛИ",
+        "NAIM": "ФЕДЕРАТИВНАЯ РЕСПУБЛИКА СОМАЛИ",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "051",
+        "ABC2": "AM",
+        "ABC3": "ARM",
+        "ANAIM": "ARMENIA",
+        "KRNAIM": "АРМЕНИЯ",
+        "NAIM": "РЕСПУБЛИКА АРМЕНИЯ",
+        "KOD_AR": "10,14",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "112",
+        "ABC2": "BY",
+        "ABC3": "BLR",
+        "ANAIM": "BELARUS",
+        "KRNAIM": "БЕЛАРУСЬ",
+        "NAIM": "РЕСПУБЛИКА БЕЛАРУСЬ",
+        "KOD_AR": "10,11,12,13,14,98,94,97",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "643",
+        "ABC2": "RU",
+        "ABC3": "RUS",
+        "ANAIM": "RUSSIAN",
+        "KRNAIM": "РОССИЯ",
+        "NAIM": "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+        "KOD_AR": "10,11,50,12,13,14,98,97",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "728",
+        "ABC2": "SS",
+        "ABC3": "SSD",
+        "ANAIM": "SOUTH SUDAN",
+        "KRNAIM": "ЮЖНЫЙ СУДАН",
+        "NAIM": "РЕСПУБЛИКА ЮЖНЫЙ СУДАН",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "804",
+        "ABC2": "UA",
+        "ABC3": "UKR",
+        "ANAIM": "UKRAINE",
+        "KRNAIM": "УКРАИНА",
+        "NAIM": "УКРАИНА",
+        "KOD_AR": "95,96",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "270",
+        "ABC2": "GM",
+        "ABC3": "GMB",
+        "ANAIM": "GAMBIA",
+        "KRNAIM": "ГАМБИЯ",
+        "NAIM": "ИСЛАМСКАЯ РЕСПУБЛИКА ГАМБИЯ",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "203",
+        "ABC2": "CZ",
+        "ABC3": "CZE",
+        "ANAIM": "CZECH REPUBLIC",
+        "KRNAIM": "ЧЕХИЯ",
+        "NAIM": "ЧЕШСКАЯ РЕСПУБЛИКА",
+        "KOD_AR": "40,20,21,95,96",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "398",
+        "ABC2": "KZ",
+        "ABC3": "KAZ",
+        "ANAIM": "KAZAKHSTAN",
+        "KRNAIM": "КАЗАХСТАН",
+        "NAIM": "РЕСПУБЛИКА КАЗАХСТАН",
+        "KOD_AR": "10,11,12,13,14,98,97",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "364",
+        "ABC2": "IR",
+        "ABC3": "IRN",
+        "ANAIM": "IRAN",
+        "KRNAIM": "ИРАН (ИСЛАМСКАЯ РЕСПУБЛИКА)",
+        "NAIM": "ИСЛАМСКАЯ РЕСПУБЛИКА ИРАН",
+        "KOD_AR": "30,91",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "663",
+        "ABC2": "MF",
+        "ABC3": "MAF",
+        "ANAIM": "SAINT MARTIN",
+        "KRNAIM": "СЕН-МАРТЕН (ФРАНЦУЗСКАЯ ЧАСТЬ)",
+        "NAIM": "СЕН-МАРТЕН (ФРАНЦУЗСКАЯ ЧАСТЬ)",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "795",
+        "ABC2": "TM",
+        "ABC3": "TKM",
+        "ANAIM": "TURKMENISTAN",
+        "KRNAIM": "ТУРКМЕНИСТАН",
+        "NAIM": "ТУРКМЕНИСТАН",
+        "KOD_AR": "10",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "862",
+        "ABC2": "VE",
+        "ABC3": "VEN",
+        "ANAIM": "VENEZUELA",
+        "KRNAIM": "ВЕНЕСУЭЛА (БОЛИВАРИАНСКАЯ РЕСПУБЛИКА)",
+        "NAIM": "БОЛИВАРИАНСКАЯ РЕСПУБЛИКА ВЕНЕСУЭЛА",
+        "KOD_AR": "30,91",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "850",
+        "ABC2": "VI",
+        "ABC3": "VIR",
+        "ANAIM": "VIRGIN ISLANDS (U.S.)",
+        "KRNAIM": "ВИРГИНСКИЕ ОСТРОВА (США)",
+        "NAIM": "ВИРГИНСКИЕ ОСТРОВА СОЕДИНЕННЫХ ШТАТОВ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "748",
+        "ABC2": "SZ",
+        "ABC3": "SWZ",
+        "ANAIM": "ESWATINI",
+        "KRNAIM": "ЭСВАТИНИ",
+        "NAIM": "КОРОЛЕВСТВО ЭСВАТИНИ",
+        "KOD_AR": "23,91",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "068",
+        "ABC2": "BO",
+        "ABC3": "BOL",
+        "ANAIM": "ВОLIVIA",
+        "KRNAIM": "БОЛИВИЯ (МНОГОНАЦИОНАЛЬНОЕ ГОСУДАРСТВО)",
+        "NAIM": "МНОГОНАЦИОНАЛЬНОЕ ГОСУДАРСТВО БОЛИВИЯ",
+        "KOD_AR": "23,91",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "583",
+        "ABC2": "FM",
+        "ABC3": "FSM",
+        "ANAIM": "MICRONESIA",
+        "KRNAIM": "МИКРОНЕЗИЯ (ФЕДЕРАТИВНЫЕ ШТАТЫ)",
+        "NAIM": "ФЕДЕРАТИВНЫЕ ШТАТЫ МИКРОНЕЗИИ",
+        "KOD_AR": "23,91",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "417",
+        "ABC2": "KG",
+        "ABC3": "KGZ",
+        "ANAIM": "KYRGYZSTAN",
+        "KRNAIM": "КЫРГЫЗСТАН",
+        "NAIM": "КЫРГЫЗСКАЯ РЕСПУБЛИКА",
+        "KOD_AR": "10,11,12,14,97",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "408",
+        "ABC2": "KP",
+        "ABC3": "PRK",
+        "ANAIM": "KOREA( DEMOCRATIC PEOPLE`S REPUBLIC OF)",
+        "KRNAIM": "КОРЕЯ (НАРОДНО-ДЕМОКРАТИЧ. РЕСПУБЛИКА)",
+        "NAIM": "КОРЕЙСКАЯ НАРОДНО-ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА",
+        "KOD_AR": "23,91",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "275",
+        "ABC2": "PS",
+        "ABC3": "PSE",
+        "ANAIM": "STATE OF PALESTINE",
+        "KRNAIM": "ПАЛЕСТИНА, ГОСУДАРСТВО",
+        "NAIM": "ГОСУДАРСТВО ПАЛЕСТИНА",
+        "KOD_AR": "23,92,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "760",
+        "ABC2": "SY",
+        "ABC3": "SYR",
+        "ANAIM": "SYRIA",
+        "KRNAIM": "СИРИЙСКАЯ АРАБСКАЯ РЕСПУБЛИКА",
+        "NAIM": "СИРИЙСКАЯ АРАБСКАЯ РЕСПУБЛИКА",
+        "KOD_AR": "23,92,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "826",
+        "ABC2": "GB",
+        "ABC3": "GBR",
+        "ANAIM": "UK OF GREAT BRITAIN AND NORTHERN IRELAND",
+        "KRNAIM": "СОЕДИНЕННОЕ КОРОЛЕВСТВО",
+        "NAIM": "СОЕДИНЕННОЕ КОРОЛЕВСТВО ВЕЛИКОБРИТАНИИ И СЕВЕРНОЙ ИРЛАНДИИ",
+        "KOD_AR": "20,95,96",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "446",
+        "ABC2": "MO",
+        "ABC3": "MAC",
+        "ANAIM": "MACAU",
+        "KRNAIM": "МАКАО",
+        "NAIM": "СПЕЦИАЛЬНЫЙ АДМИНИСТРАТИВНЫЙ РАЙОН МАКАО КИТАЙСКОЙ НАРОДНОЙ РЕСПУБЛИКИ",
+        "KOD_AR": "23,99",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "524",
+        "ABC2": "NP",
+        "ABC3": "NPL",
+        "ANAIM": "NEPAL",
+        "KRNAIM": "НЕПАЛ",
+        "NAIM": "НЕПАЛ",
+        "KOD_AR": "23,92",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.0,
+        "S_IMPORT21": 0.0
+    },
+    {
+        "KOD": "784",
+        "ABC2": "AE",
+        "ABC3": "ARE",
+        "ANAIM": "UNITED ARAB EMIRATES",
+        "KRNAIM": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+        "NAIM": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+        "KOD_AR": "30",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "028",
+        "ABC2": "AG",
+        "ABC3": "ATG",
+        "ANAIM": "ANTIGUA AND BARBUDA",
+        "KRNAIM": "АНТИГУА И БАРБУДА",
+        "NAIM": "АНТИГУА И БАРБУДА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "660",
+        "ABC2": "AI",
+        "ABC3": "AIA",
+        "ANAIM": "ANGUILLA",
+        "KRNAIM": "АНГИЛЬЯ",
+        "NAIM": "АНГИЛЬЯ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "008",
+        "ABC2": "AL",
+        "ABC3": "ALB",
+        "ANAIM": "ALBANIA",
+        "KRNAIM": "АЛБАНИЯ",
+        "NAIM": "РЕСПУБЛИКА АЛБАНИЯ",
+        "KOD_AR": "40,96",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "032",
+        "ABC2": "AR",
+        "ABC3": "ARG",
+        "ANAIM": "ARGENTINA",
+        "KRNAIM": "АРГЕНТИНА",
+        "NAIM": "АРГЕНТИНСКАЯ РЕСПУБЛИКА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "533",
+        "ABC2": "AW",
+        "ABC3": "ABW",
+        "ANAIM": "ARUBA",
+        "KRNAIM": "АРУБА",
+        "NAIM": "АРУБА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "070",
+        "ABC2": "BA",
+        "ABC3": "BIH",
+        "ANAIM": "BOSNIA AND HERZEGOWINA",
+        "KRNAIM": "БОСНИЯ И ГЕРЦЕГОВИНА",
+        "NAIM": "БОСНИЯ И ГЕРЦЕГОВИНА",
+        "KOD_AR": "40",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "052",
+        "ABC2": "BB",
+        "ABC3": "BRB",
+        "ANAIM": "BARBADOS",
+        "KRNAIM": "БАРБАДОС",
+        "NAIM": "БАРБАДОС",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "048",
+        "ABC2": "BH",
+        "ABC3": "BHR",
+        "ANAIM": "BAHRAIN",
+        "KRNAIM": "БАХРЕЙН",
+        "NAIM": "КОРОЛЕВСТВО БАХРЕЙН",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "060",
+        "ABC2": "BM",
+        "ABC3": "BMU",
+        "ANAIM": "BERMUDA",
+        "KRNAIM": "БЕРМУДЫ",
+        "NAIM": "БЕРМУДЫ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "096",
+        "ABC2": "BN",
+        "ABC3": "BRN",
+        "ANAIM": "BRUNEL",
+        "KRNAIM": "БРУНЕЙ-ДАРУССАЛАМ",
+        "NAIM": "БРУНЕЙ-ДАРУССАЛАМ",
+        "KOD_AR": "50",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "076",
+        "ABC2": "BR",
+        "ABC3": "BRA",
+        "ANAIM": "BRAZIL",
+        "KRNAIM": "БРАЗИЛИЯ",
+        "NAIM": "ФЕДЕРАТИВНАЯ РЕСПУБЛИКА БРАЗИЛИЯ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "072",
+        "ABC2": "BW",
+        "ABC3": "BWA",
+        "ANAIM": "BOTSWANA",
+        "KRNAIM": "БОТСВАНА",
+        "NAIM": "РЕСПУБЛИКА БОТСВАНА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "084",
+        "ABC2": "BZ",
+        "ABC3": "BLZ",
+        "ANAIM": "BELIZE",
+        "KRNAIM": "БЕЛИЗ",
+        "NAIM": "БЕЛИЗ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "184",
+        "ABC2": "CK",
+        "ABC3": "COK",
+        "ANAIM": "COOK ISLANDS",
+        "KRNAIM": "ОСТРОВА КУКА",
+        "NAIM": "ОСТРОВА КУКА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "152",
+        "ABC2": "CL",
+        "ABC3": "CHL",
+        "ANAIM": "CHILE",
+        "KRNAIM": "ЧИЛИ",
+        "NAIM": "РЕСПУБЛИКА ЧИЛИ",
+        "KOD_AR": "50,20",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "156",
+        "ABC2": "CN",
+        "ABC3": "CHN",
+        "ANAIM": "CHINA",
+        "KRNAIM": "КИТАЙ",
+        "NAIM": "КИТАЙСКАЯ НАРОДНАЯ РЕСПУБЛИКА",
+        "KOD_AR": "50,99",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "170",
+        "ABC2": "CO",
+        "ABC3": "COL",
+        "ANAIM": "COLOMBIA",
+        "KRNAIM": "КОЛУМБИЯ",
+        "NAIM": "РЕСПУБЛИКА КОЛУМБИЯ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "188",
+        "ABC2": "CR",
+        "ABC3": "CRI",
+        "ANAIM": "COSTA RICA",
+        "KRNAIM": "КОСТА-РИКА",
+        "NAIM": "РЕСПУБЛИКА КОСТА-РИКА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "212",
+        "ABC2": "DM",
+        "ABC3": "DMA",
+        "ANAIM": "DOMINICA",
+        "KRNAIM": "ДОМИНИКА",
+        "NAIM": "СОДРУЖЕСТВО ДОМИНИКИ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "214",
+        "ABC2": "DO",
+        "ABC3": "DOM",
+        "ANAIM": "DOMINICAN REPUBLIC",
+        "KRNAIM": "ДОМИНИКАНСКАЯ РЕСПУБЛИКА",
+        "NAIM": "ДОМИНИКАНСКАЯ РЕСПУБЛИКА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "218",
+        "ABC2": "EC",
+        "ABC3": "ECU",
+        "ANAIM": "ECUADOR",
+        "KRNAIM": "ЭКВАДОР",
+        "NAIM": "РЕСПУБЛИКА ЭКВАДОР",
+        "KOD_AR": "23,30",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "242",
+        "ABC2": "FJ",
+        "ABC3": "FJI",
+        "ANAIM": "FIJI",
+        "KRNAIM": "ФИДЖИ",
+        "NAIM": "РЕСПУБЛИКА  ФИДЖИ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "266",
+        "ABC2": "GA",
+        "ABC3": "GAB",
+        "ANAIM": "GABON",
+        "KRNAIM": "ГАБОН",
+        "NAIM": "ГАБОНСКАЯ РЕСПУБЛИКА",
+        "KOD_AR": "23,30",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "308",
+        "ABC2": "GD",
+        "ABC3": "GRD",
+        "ANAIM": "GRENADA",
+        "KRNAIM": "ГРЕНАДА",
+        "NAIM": "ГРЕНАДА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "320",
+        "ABC2": "GT",
+        "ABC3": "GTM",
+        "ANAIM": "GUATEMALA",
+        "KRNAIM": "ГВАТЕМАЛА",
+        "NAIM": "РЕСПУБЛИКА ГВАТЕМАЛА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "328",
+        "ABC2": "GY",
+        "ABC3": "GUY",
+        "ANAIM": "GUYANA",
+        "KRNAIM": "ГАЙАНА",
+        "NAIM": "Кооперативная Республика Гайана",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "344",
+        "ABC2": "HK",
+        "ABC3": "HKG",
+        "ANAIM": "HONG KONG",
+        "KRNAIM": "ГОНКОНГ",
+        "NAIM": "СПЕЦИАЛЬНЫЙ АДМИНИСТРАТИВНЫЙ РАЙОН ГОНКОНГ КИТАЙСКОЙ НАРОДНОЙ РЕСПУБЛИКИ",
+        "KOD_AR": "50,99",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "360",
+        "ABC2": "ID",
+        "ABC3": "IDN",
+        "ANAIM": "INDONESIA",
+        "KRNAIM": "ИНДОНЕЗИЯ",
+        "NAIM": "РЕСПУБЛИКА ИНДОНЕЗИЯ",
+        "KOD_AR": "50,30",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "356",
+        "ABC2": "IN",
+        "ABC3": "IND",
+        "ANAIM": "INDIA",
+        "KRNAIM": "ИНДИЯ",
+        "NAIM": "РЕСПУБЛИКА ИНДИЯ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "368",
+        "ABC2": "IQ",
+        "ABC3": "IRQ",
+        "ANAIM": "IRAQ",
+        "KRNAIM": "ИРАК",
+        "NAIM": "РЕСПУБЛИКА ИРАК",
+        "KOD_AR": "30",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "388",
+        "ABC2": "JM",
+        "ABC3": "JAM",
+        "ANAIM": "JAMAICA",
+        "KRNAIM": "ЯМАЙКА",
+        "NAIM": "ЯМАЙКА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "400",
+        "ABC2": "JO",
+        "ABC3": "JOR",
+        "ANAIM": "JORDAN",
+        "KRNAIM": "ИОРДАНИЯ",
+        "NAIM": "ИОРДАНСКОЕ ХАШИМИТСКОЕ КОРОЛЕВСТВО",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "659",
+        "ABC2": "KN",
+        "ABC3": "KNA",
+        "ANAIM": "SAINT KITTS AND NEVIS",
+        "KRNAIM": "СЕНТ-КИТС И НЕВИС",
+        "NAIM": "СЕНТ-КИТС И НЕВИС",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "410",
+        "ABC2": "KR",
+        "ABC3": "KOR",
+        "ANAIM": "KOREA,REPUBLIC OF",
+        "KRNAIM": "КОРЕЯ, РЕСПУБЛИКА",
+        "NAIM": "РЕСПУБЛИКА КОРЕЯ",
+        "KOD_AR": "50,20",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "414",
+        "ABC2": "KW",
+        "ABC3": "KWT",
+        "ANAIM": "KUWAIT",
+        "KRNAIM": "КУВЕЙТ",
+        "NAIM": "ГОСУДАРСТВО КУВЕЙТ",
+        "KOD_AR": "30",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "136",
+        "ABC2": "KY",
+        "ABC3": "CYM",
+        "ANAIM": "CAYMAN ISLANDS",
+        "KRNAIM": "ОСТРОВА КАЙМАН",
+        "NAIM": "ОСТРОВА КАЙМАН",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "422",
+        "ABC2": "LB",
+        "ABC3": "LBN",
+        "ANAIM": "LEBANON",
+        "KRNAIM": "ЛИВАН",
+        "NAIM": "ЛИВАНСКАЯ РЕСПУБЛИКА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "662",
+        "ABC2": "LC",
+        "ABC3": "LCA",
+        "ANAIM": "SAINT LUCIA",
+        "KRNAIM": "СЕНТ-ЛЮСИЯ",
+        "NAIM": "СЕНТ-ЛЮСИЯ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "434",
+        "ABC2": "LY",
+        "ABC3": "LBY",
+        "ANAIM": "LIBYAN",
+        "KRNAIM": "ЛИВИЯ",
+        "NAIM": "Государство Ливия",
+        "KOD_AR": "30",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "499",
+        "ABC2": "ME",
+        "ABC3": "MNE",
+        "ANAIM": "MONTENEGRO",
+        "KRNAIM": "ЧЕРНОГОРИЯ",
+        "NAIM": "ЧЕРНОГОРИЯ",
+        "KOD_AR": "40,96",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "807",
+        "ABC2": "MK",
+        "ABC3": "MKD",
+        "ANAIM": "NORTH MACEDONIA",
+        "KRNAIM": "СЕВЕРНАЯ МАКЕДОНИЯ",
+        "NAIM": "РЕСПУБЛИКА  СЕВЕРНАЯ МАКЕДОНИЯ",
+        "KOD_AR": "40",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "500",
+        "ABC2": "MS",
+        "ABC3": "MSR",
+        "ANAIM": "MONTSERRAT",
+        "KRNAIM": "МОНТСЕРРАТ",
+        "NAIM": "МОНТСЕРРАТ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "480",
+        "ABC2": "MU",
+        "ABC3": "MUS",
+        "ANAIM": "MAURITIUS",
+        "KRNAIM": "МАВРИКИЙ",
+        "NAIM": "РЕСПУБЛИКА МАВРИКИЙ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "462",
+        "ABC2": "MV",
+        "ABC3": "MDV",
+        "ANAIM": "MALDIVES",
+        "KRNAIM": "МАЛЬДИВЫ",
+        "NAIM": "МАЛЬДИВСКАЯ РЕСПУБЛИКА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "484",
+        "ABC2": "MX",
+        "ABC3": "MEX",
+        "ANAIM": "MEXICO",
+        "KRNAIM": "МЕКСИКА",
+        "NAIM": "МЕКСИКАНСКИЕ СОЕДИНЕННЫЕ ШТАТЫ",
+        "KOD_AR": "50,20",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "458",
+        "ABC2": "MY",
+        "ABC3": "MYS",
+        "ANAIM": "MALAYSIA",
+        "KRNAIM": "МАЛАЙЗИЯ",
+        "NAIM": "МАЛАЙЗИЯ",
+        "KOD_AR": "50",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "516",
+        "ABC2": "NA",
+        "ABC3": "NAM",
+        "ANAIM": "NAMIBIA",
+        "KRNAIM": "НАМИБИЯ",
+        "NAIM": "РЕСПУБЛИКА НАМИБИЯ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "520",
+        "ABC2": "NR",
+        "ABC3": "NRU",
+        "ANAIM": "NAURU",
+        "KRNAIM": "НАУРУ",
+        "NAIM": "РЕСПУБЛИКА НАУРУ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "570",
+        "ABC2": "NU",
+        "ABC3": "NIU",
+        "ANAIM": "NIUE",
+        "KRNAIM": "НИУЭ",
+        "NAIM": "НИУЭ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "512",
+        "ABC2": "OM",
+        "ABC3": "OMN",
+        "ANAIM": "OMAN",
+        "KRNAIM": "ОМАН",
+        "NAIM": "СУЛТАНАТ ОМАН",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "591",
+        "ABC2": "PA",
+        "ABC3": "PAN",
+        "ANAIM": "PANAMA",
+        "KRNAIM": "ПАНАМА",
+        "NAIM": "РЕСПУБЛИКА ПАНАМА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "604",
+        "ABC2": "PE",
+        "ABC3": "PER",
+        "ANAIM": "PERU",
+        "KRNAIM": "ПЕРУ",
+        "NAIM": "РЕСПУБЛИКА ПЕРУ",
+        "KOD_AR": "50",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "600",
+        "ABC2": "PY",
+        "ABC3": "PRY",
+        "ANAIM": "PARAGUAY",
+        "KRNAIM": "ПАРАГВАЙ",
+        "NAIM": "РЕСПУБЛИКА ПАРАГВАЙ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "634",
+        "ABC2": "QA",
+        "ABC3": "QAT",
+        "ANAIM": "QATAR",
+        "KRNAIM": "КАТАР",
+        "NAIM": "ГОСУДАРСТВО КАТАР",
+        "KOD_AR": "30",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "688",
+        "ABC2": "RS",
+        "ABC3": "SRB",
+        "ANAIM": "SERBIA",
+        "KRNAIM": "СЕРБИЯ",
+        "NAIM": "РЕСПУБЛИКА СЕРБИЯ",
+        "KOD_AR": "40",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "682",
+        "ABC2": "SA",
+        "ABC3": "SAU",
+        "ANAIM": "SAUDI ARABIA",
+        "KRNAIM": "САУДОВСКАЯ АРАВИЯ",
+        "NAIM": "КОРОЛЕВСТВО САУДОВСКАЯ АРАВИЯ",
+        "KOD_AR": "30",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "690",
+        "ABC2": "SC",
+        "ABC3": "SYC",
+        "ANAIM": "SEYCHELLES",
+        "KRNAIM": "СЕЙШЕЛЫ",
+        "NAIM": "РЕСПУБЛИКА СЕЙШЕЛЫ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "702",
+        "ABC2": "SG",
+        "ABC3": "SGP",
+        "ANAIM": "SINGAPORE",
+        "KRNAIM": "СИНГАПУР",
+        "NAIM": "РЕСПУБЛИКА СИНГАПУР",
+        "KOD_AR": "50",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "654",
+        "ABC2": "SH",
+        "ABC3": "SHN",
+        "ANAIM": "ST. HELENA",
+        "KRNAIM": "СВ.ЕЛЕНА,О.ВОЗНЕС.,ТРИСТАН-ДА-КУНЬЯ",
+        "NAIM": "СВЯТАЯ ЕЛЕНА,ОСТРОВ ВОЗНЕСЕНИЯ,ТРИСТАН-ДА-КУНЬЯ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "740",
+        "ABC2": "SR",
+        "ABC3": "SUR",
+        "ANAIM": "SURINAME",
+        "KRNAIM": "СУРИНАМ",
+        "NAIM": "РЕСПУБЛИКА СУРИНАМ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "796",
+        "ABC2": "TC",
+        "ABC3": "TCA",
+        "ANAIM": "TURKS AND CAICOS ISLANDS",
+        "KRNAIM": "ОСТРОВА ТЕРКС И КАЙКОС",
+        "NAIM": "ОСТРОВА ТЕРКС И КАЙКОС",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "764",
+        "ABC2": "TH",
+        "ABC3": "THA",
+        "ANAIM": "THAILAND",
+        "KRNAIM": "ТАИЛАНД",
+        "NAIM": "КОРОЛЕВСТВО ТАИЛАНД",
+        "KOD_AR": "50",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "772",
+        "ABC2": "TK",
+        "ABC3": "TKL",
+        "ANAIM": "TOKELAU",
+        "KRNAIM": "ТОКЕЛАУ",
+        "NAIM": "ТОКЕЛАУ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "776",
+        "ABC2": "TO",
+        "ABC3": "TON",
+        "ANAIM": "TONGA",
+        "KRNAIM": "ТОНГА",
+        "NAIM": "КОРОЛЕВСТВО ТОНГА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "792",
+        "ABC2": "TR",
+        "ABC3": "TUR",
+        "ANAIM": "TURKEY",
+        "KRNAIM": "ТУРЦИЯ",
+        "NAIM": "ТУРЕЦКАЯ РЕСПУБЛИКА",
+        "KOD_AR": "20",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "780",
+        "ABC2": "TT",
+        "ABC3": "TTO",
+        "ANAIM": "TRINIDAD AND TOBAGO",
+        "KRNAIM": "ТРИНИДАД И ТОБАГО",
+        "NAIM": "РЕСПУБЛИКА ТРИНИДАД И ТОБАГО",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "158",
+        "ABC2": "TW",
+        "ABC3": "TWN",
+        "ANAIM": "TAIWAN,PROVINCE OF CHINA",
+        "KRNAIM": "ТАЙВАНЬ (КИТАЙ)",
+        "NAIM": "ТАЙВАНЬ (КИТАЙ)",
+        "KOD_AR": "50,99",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "858",
+        "ABC2": "UY",
+        "ABC3": "URY",
+        "ANAIM": "URUGUAY",
+        "KRNAIM": "УРУГВАЙ",
+        "NAIM": "ВОСТОЧНАЯ РЕСПУБЛИКА УРУГВАЙ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "670",
+        "ABC2": "VC",
+        "ABC3": "VCT",
+        "ANAIM": "SAINT VINCENT AND THE GRENADINES",
+        "KRNAIM": "СЕНТ-ВИНСЕНТ И ГРЕНАДИНЫ",
+        "NAIM": "СЕНТ-ВИНСЕНТ И ГРЕНАДИНЫ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "092",
+        "ABC2": "VG",
+        "ABC3": "VGB",
+        "ANAIM": "VIRGIN ISLANDS",
+        "KRNAIM": "ВИРГИНСКИЕ ОСТРОВА (БРИТАНСКИЕ)",
+        "NAIM": "БРИТАНСКИЕ ВИРГИНСКИЕ ОСТРОВА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "704",
+        "ABC2": "VN",
+        "ABC3": "VNM",
+        "ANAIM": "VIET NAM",
+        "KRNAIM": "ВЬЕТНАМ",
+        "NAIM": "СОЦИАЛИСТИЧЕСКАЯ РЕСПУБЛИКА ВЬЕТНАМ",
+        "KOD_AR": "50",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "882",
+        "ABC2": "WS",
+        "ABC3": "WSM",
+        "ANAIM": "SAMOA",
+        "KRNAIM": "САМОА",
+        "NAIM": "НЕЗАВИСИМОЕ ГОСУДАРСТВО САМОА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "710",
+        "ABC2": "ZA",
+        "ABC3": "ZAF",
+        "ANAIM": "SOUTH AFRICA",
+        "KRNAIM": "ЮЖНАЯ АФРИКА",
+        "NAIM": "ЮЖНО-АФРИКАНСКАЯ РЕСПУБЛИКА",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "548",
+        "ABC2": "VU",
+        "ABC3": "VUT",
+        "ANAIM": "VANUATU",
+        "KRNAIM": "ВАНУАТУ",
+        "NAIM": "РЕСПУБЛИКА ВАНУАТУ",
+        "KOD_AR": "23,91",
+        "IMPORT": 1.0,
+        "S_IMPORT": 0.75,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "226",
+        "ABC2": "GQ",
+        "ABC3": "GNQ",
+        "ANAIM": "EQUATORIAL GUINEA",
+        "KRNAIM": "ЭКВАТОРИАЛЬНАЯ ГВИНЕЯ",
+        "NAIM": "РЕСПУБЛИКА ЭКВАТОРИАЛЬНАЯ ГВИНЕЯ",
+        "KOD_AR": "23,30",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "897",
+        "ABC2": "DN",
+        "ABC3": "DNR",
+        "ANAIM": "DONETSK PEOPLE'S REPUBLIC",
+        "KRNAIM": "ДНР",
+        "NAIM": "ДОНЕЦКАЯ НАРОДНАЯ РЕСПУБЛИКА",
+        "KOD_AR": "23,94",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "898",
+        "ABC2": "LN",
+        "ABC3": "LNR",
+        "ANAIM": "LUGANSK PEOPLE'S REPUBLIC",
+        "KRNAIM": "ЛНР",
+        "NAIM": "ЛУГАНСКАЯ НАРОДНАЯ РЕСПУБЛИКА",
+        "KOD_AR": "23,94",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "044",
+        "ABC2": "BS",
+        "ABC3": "BHS",
+        "ANAIM": "BAHAMAS",
+        "KRNAIM": "БАГАМЫ",
+        "NAIM": "СОДРУЖЕСТВО БАГАМЫ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 0.75
+    },
+    {
+        "KOD": "833",
+        "ABC2": "IM",
+        "ABC3": "IMN",
+        "ANAIM": "ISLE OF MAN",
+        "KRNAIM": "ОСТРОВ МЭН",
+        "NAIM": "ОСТРОВ МЭН",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "831",
+        "ABC2": "GG",
+        "ABC3": "GGY",
+        "ANAIM": "GUERNSEY",
+        "KRNAIM": "ГЕРНСИ",
+        "NAIM": "ГЕРНСИ",
+        "KOD_AR": "23",
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "000",
+        "ABC2": "00",
+        "ABC3": null,
+        "ANAIM": "НЕИЗВЕСТНО",
+        "KRNAIM": "НЕИЗВЕСТНО",
+        "NAIM": "НЕИЗВЕСТНО",
+        "KOD_AR": null,
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
+    },
+    {
+        "KOD": "999",
+        "ABC2": "99",
+        "ABC3": null,
+        "ANAIM": "РАЗНЫЕ",
+        "KRNAIM": "РАЗНЫЕ",
+        "NAIM": "РАЗНЫЕ",
+        "KOD_AR": null,
+        "IMPORT": 1.0,
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     },
     {
         "KOD": "EUR",
@@ -2780,6 +3068,7 @@
         "NAIM": "ЕВРОПЕЙСКИЙ СОЮЗ",
         "KOD_AR": "21",
         "IMPORT": 1.0,
-        "S_IMPORT": 1.0
+        "S_IMPORT": 1.0,
+        "S_IMPORT21": 1.0
     }
 ]
