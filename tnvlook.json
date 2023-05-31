@@ -90,6 +90,11 @@
         "NAME": null
     },
     {
+        "PRIZNAK": 22,
+        "CODE": "643",
+        "NAME": "Руб"
+    },
+    {
         "PRIZNAK": 1,
         "CODE": null,
         "NAME": null
@@ -576,13 +581,8 @@
     },
     {
         "PRIZNAK": 22,
-        "CODE": "978",
-        "NAME": "Евро"
-    },
-    {
-        "PRIZNAK": 23,
-        "CODE": "978",
-        "NAME": "Евро"
+        "CODE": null,
+        "NAME": ""
     },
     {
         "PRIZNAK": 30,
@@ -718,16 +718,6 @@
         "PRIZNAK": 21,
         "CODE": "2",
         "NAME": "Экспорт в Ирак"
-    },
-    {
-        "PRIZNAK": 22,
-        "CODE": null,
-        "NAME": null
-    },
-    {
-        "PRIZNAK": 23,
-        "CODE": null,
-        "NAME": null
     },
     {
         "PRIZNAK": 24,
