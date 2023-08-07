@@ -101,6 +101,11 @@
     },
     {
         "PRIZNAK": 1,
+        "CODE": "112D",
+        "NAME": "ДолларСША/л"
+    },
+    {
+        "PRIZNAK": 1,
         "CODE": null,
         "NAME": null
     },
