@@ -646,7 +646,7 @@
                     "type": "object"
                 },
                 "29": {
-                    "description": "Утилизация",
+                    "description": "Утилизация (экологический сбор)",
                     "type": "object"
                 },
                 "30": {
