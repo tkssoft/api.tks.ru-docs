@@ -4,7 +4,7 @@
 
 ## URL запроса
 
-    https://api1.tks.ru/auto.json/json/<ключ_клиента>/legacy/?param_1=value_1&param_2=value_2&...&param_n=value_n
+    https://api1.tks.ru/auto.json/json/<ключ_клиента>/?param_1=value_1&param_2=value_2&...&param_n=value_n
 
 
 
